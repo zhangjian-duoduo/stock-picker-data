@@ -1,2398 +1,3193 @@
 {
-  "generatedAt": "2026-04-18T19:15:00",
-  "totalStocks": 15,
+  "generatedAt": "2026-04-18T23:58:19.138392",
+  "totalStocks": 20,
   "stocks": [
     {
       "id": "000001",
       "name": "平安银行",
-      "currentPrice": 8.85,
-      "priceChangePercent": 1.77,
+      "currentPrice": 8.66,
+      "priceChangePercent": 4.56,
       "isNearBottom": true,
-      "bottomScore": 80.5,
-      "三年低价": 8.34,
-      "三年高价": 16.55,
-      "三年中价": 12.45,
-      "当前位置百分位": 8.5,
+      "bottomScore": 64.9,
+      "三年低价": 7.65,
+      "三年高价": 14.82,
+      "三年中价": 11.23,
+      "当前位置百分位": 21.7,
       "shareholderTrend": [
         {
           "quarter": "2021Q1",
-          "shareholders": 146185,
-          "perCapitaShares": 0.6,
-          "changePercent": -2.16
+          "shareholders": 192544,
+          "perCapitaShares": 0.5,
+          "changePercent": -2.13
         },
         {
           "quarter": "2021Q2",
-          "shareholders": 141273,
-          "perCapitaShares": 0.6,
-          "changePercent": -3.36
+          "shareholders": 193536,
+          "perCapitaShares": 0.4,
+          "changePercent": 0.52
         },
         {
           "quarter": "2021Q3",
-          "shareholders": 134845,
-          "perCapitaShares": 0.6,
-          "changePercent": -4.55
+          "shareholders": 184801,
+          "perCapitaShares": 0.5,
+          "changePercent": -4.51
         },
         {
           "quarter": "2021Q4",
-          "shareholders": 130341,
-          "perCapitaShares": 0.7,
-          "changePercent": -3.34
+          "shareholders": 175629,
+          "perCapitaShares": 0.5,
+          "changePercent": -4.96
         },
         {
           "quarter": "2022Q1",
-          "shareholders": 130002,
-          "perCapitaShares": 0.7,
-          "changePercent": -0.26
+          "shareholders": 171591,
+          "perCapitaShares": 0.5,
+          "changePercent": -2.3
         },
         {
           "quarter": "2022Q2",
-          "shareholders": 125009,
-          "perCapitaShares": 0.8,
-          "changePercent": -3.84
+          "shareholders": 171737,
+          "perCapitaShares": 0.5,
+          "changePercent": 0.09
         },
         {
           "quarter": "2022Q3",
-          "shareholders": 124458,
-          "perCapitaShares": 0.8,
-          "changePercent": -0.44
+          "shareholders": 169593,
+          "perCapitaShares": 0.5,
+          "changePercent": -1.25
         },
         {
           "quarter": "2022Q4",
-          "shareholders": 125901,
-          "perCapitaShares": 0.7,
-          "changePercent": 1.16
+          "shareholders": 169726,
+          "perCapitaShares": 0.5,
+          "changePercent": 0.08
         },
         {
           "quarter": "2023Q1",
-          "shareholders": 128557,
-          "perCapitaShares": 0.6,
-          "changePercent": 2.11
+          "shareholders": 166044,
+          "perCapitaShares": 0.5,
+          "changePercent": -2.17
         },
         {
           "quarter": "2023Q2",
-          "shareholders": 122643,
-          "perCapitaShares": 0.8,
-          "changePercent": -4.6
+          "shareholders": 168752,
+          "perCapitaShares": 0.5,
+          "changePercent": 1.63
         },
         {
           "quarter": "2023Q3",
-          "shareholders": 116645,
-          "perCapitaShares": 0.7,
-          "changePercent": -4.89
+          "shareholders": 169435,
+          "perCapitaShares": 0.5,
+          "changePercent": 0.41
         },
         {
           "quarter": "2023Q4",
-          "shareholders": 115606,
-          "perCapitaShares": 0.8,
-          "changePercent": -0.89
+          "shareholders": 166973,
+          "perCapitaShares": 0.5,
+          "changePercent": -1.45
         },
         {
           "quarter": "2024Q1",
-          "shareholders": 114114,
-          "perCapitaShares": 0.8,
-          "changePercent": -1.29
+          "shareholders": 158752,
+          "perCapitaShares": 0.5,
+          "changePercent": -4.92
         },
         {
           "quarter": "2024Q2",
-          "shareholders": 114056,
-          "perCapitaShares": 0.8,
-          "changePercent": -0.05
+          "shareholders": 159361,
+          "perCapitaShares": 0.5,
+          "changePercent": 0.38
         },
         {
           "quarter": "2024Q3",
-          "shareholders": 109847,
-          "perCapitaShares": 0.8,
-          "changePercent": -3.69
+          "shareholders": 161979,
+          "perCapitaShares": 0.6,
+          "changePercent": 1.64
         },
         {
           "quarter": "2024Q4",
-          "shareholders": 103519,
-          "perCapitaShares": 0.9,
-          "changePercent": -5.76
+          "shareholders": 157428,
+          "perCapitaShares": 0.6,
+          "changePercent": -2.81
         },
         {
           "quarter": "2025Q1",
-          "shareholders": 99989,
-          "perCapitaShares": 0.9,
-          "changePercent": -3.41
+          "shareholders": 149849,
+          "perCapitaShares": 0.6,
+          "changePercent": -4.81
         },
         {
           "quarter": "2025Q2",
-          "shareholders": 91559,
-          "perCapitaShares": 1.0,
-          "changePercent": -8.43
+          "shareholders": 139189,
+          "perCapitaShares": 0.6,
+          "changePercent": -7.11
         },
         {
           "quarter": "2025Q3",
-          "shareholders": 83584,
-          "perCapitaShares": 1.1,
-          "changePercent": -8.71
+          "shareholders": 126675,
+          "perCapitaShares": 0.6,
+          "changePercent": -8.99
         },
         {
           "quarter": "2025Q4",
-          "shareholders": 75994,
-          "perCapitaShares": 1.3,
-          "changePercent": -9.08
+          "shareholders": 122242,
+          "perCapitaShares": 0.6,
+          "changePercent": -3.5
         }
       ],
       "peCurrent": 5.2,
       "pbCurrent": 0.68,
-      "pePercentile": 34.4,
-      "pbPercentile": 24.7,
-      "hasMacdBottomDivergence": true,
-      "macdDivergenceDate": "2025-04-10",
-      "macdDivergenceStrength": 0.81,
-      "chipConcentration": 67.5,
+      "pePercentile": 25.6,
+      "pbPercentile": 32.0,
+      "hasMacdBottomDivergence": false,
+      "macdDivergenceDate": null,
+      "macdDivergenceStrength": 0,
+      "chipConcentration": 74.4,
       "chipLevel": "高度集中",
       "trendAnalysis": {
-        "shortTerm": "震荡",
-        "mediumTerm": "震荡",
-        "longTerm": "上涨",
+        "shortTerm": "上涨",
+        "mediumTerm": "上涨",
+        "longTerm": "震荡",
         "supportLevels": [
-          7.95
+          7.29
         ],
         "resistanceLevels": [
-          12.1
+          12.49
         ],
-        "upsidePotential": 48.6,
-        "downsideRisk": 9.6,
-        "winLossRatio": 5.06,
-        "confidenceLevel": 0.77,
-        "analysisSummary": "股价位于三年底部区域，80.5分底部评分，建议关注。"
+        "upsidePotential": 68.8,
+        "downsideRisk": 12.7,
+        "winLossRatio": 5.42,
+        "confidenceLevel": 0.69,
+        "analysisSummary": "股价位于三年底部区域，64.9分底部评分，建议关注。"
       }
     },
     {
       "id": "600036",
       "name": "招商银行",
-      "currentPrice": 28.5,
-      "priceChangePercent": -1.17,
+      "currentPrice": 26.84,
+      "priceChangePercent": 0.93,
       "isNearBottom": true,
-      "bottomScore": 69.3,
-      "三年低价": 27.34,
-      "三年高价": 53.4,
-      "三年中价": 40.37,
-      "当前位置百分位": 5.5,
+      "bottomScore": 79.1,
+      "三年低价": 25.51,
+      "三年高价": 51.17,
+      "三年中价": 38.34,
+      "当前位置百分位": 27.7,
       "shareholderTrend": [
         {
           "quarter": "2021Q1",
-          "shareholders": 297231,
-          "perCapitaShares": 0.9,
-          "changePercent": -0.83
-        },
-        {
-          "quarter": "2021Q2",
-          "shareholders": 300054,
-          "perCapitaShares": 0.9,
-          "changePercent": 0.95
-        },
-        {
-          "quarter": "2021Q3",
-          "shareholders": 291352,
-          "perCapitaShares": 0.9,
-          "changePercent": -2.9
-        },
-        {
-          "quarter": "2021Q4",
-          "shareholders": 297441,
-          "perCapitaShares": 1.0,
-          "changePercent": 2.09
-        },
-        {
-          "quarter": "2022Q1",
-          "shareholders": 296310,
-          "perCapitaShares": 1.0,
-          "changePercent": -0.38
-        },
-        {
-          "quarter": "2022Q2",
-          "shareholders": 289050,
-          "perCapitaShares": 0.9,
-          "changePercent": -2.45
-        },
-        {
-          "quarter": "2022Q3",
-          "shareholders": 288327,
-          "perCapitaShares": 0.9,
-          "changePercent": -0.25
-        },
-        {
-          "quarter": "2022Q4",
-          "shareholders": 282819,
-          "perCapitaShares": 0.9,
-          "changePercent": -1.91
-        },
-        {
-          "quarter": "2023Q1",
-          "shareholders": 280330,
-          "perCapitaShares": 1.0,
-          "changePercent": -0.88
-        },
-        {
-          "quarter": "2023Q2",
-          "shareholders": 282432,
-          "perCapitaShares": 1.0,
-          "changePercent": 0.75
-        },
-        {
-          "quarter": "2023Q3",
-          "shareholders": 283194,
-          "perCapitaShares": 1.0,
-          "changePercent": 0.27
-        },
-        {
-          "quarter": "2023Q4",
-          "shareholders": 269204,
+          "shareholders": 251130,
           "perCapitaShares": 1.1,
           "changePercent": -4.94
         },
         {
-          "quarter": "2024Q1",
-          "shareholders": 261127,
+          "quarter": "2021Q2",
+          "shareholders": 242884,
+          "perCapitaShares": 1.0,
+          "changePercent": -3.28
+        },
+        {
+          "quarter": "2021Q3",
+          "shareholders": 239764,
           "perCapitaShares": 1.1,
-          "changePercent": -3.0
+          "changePercent": -1.28
+        },
+        {
+          "quarter": "2021Q4",
+          "shareholders": 246714,
+          "perCapitaShares": 1.2,
+          "changePercent": 2.9
+        },
+        {
+          "quarter": "2022Q1",
+          "shareholders": 246541,
+          "perCapitaShares": 1.0,
+          "changePercent": -0.07
+        },
+        {
+          "quarter": "2022Q2",
+          "shareholders": 251510,
+          "perCapitaShares": 1.1,
+          "changePercent": 2.02
+        },
+        {
+          "quarter": "2022Q3",
+          "shareholders": 250579,
+          "perCapitaShares": 1.0,
+          "changePercent": -0.37
+        },
+        {
+          "quarter": "2022Q4",
+          "shareholders": 241160,
+          "perCapitaShares": 1.0,
+          "changePercent": -3.76
+        },
+        {
+          "quarter": "2023Q1",
+          "shareholders": 235424,
+          "perCapitaShares": 1.1,
+          "changePercent": -2.38
+        },
+        {
+          "quarter": "2023Q2",
+          "shareholders": 225396,
+          "perCapitaShares": 1.2,
+          "changePercent": -4.26
+        },
+        {
+          "quarter": "2023Q3",
+          "shareholders": 227834,
+          "perCapitaShares": 1.1,
+          "changePercent": 1.08
+        },
+        {
+          "quarter": "2023Q4",
+          "shareholders": 231343,
+          "perCapitaShares": 1.1,
+          "changePercent": 1.54
+        },
+        {
+          "quarter": "2024Q1",
+          "shareholders": 225311,
+          "perCapitaShares": 1.2,
+          "changePercent": -2.61
         },
         {
           "quarter": "2024Q2",
-          "shareholders": 247391,
-          "perCapitaShares": 1.1,
-          "changePercent": -5.26
+          "shareholders": 212440,
+          "perCapitaShares": 1.4,
+          "changePercent": -5.71
         },
         {
           "quarter": "2024Q3",
-          "shareholders": 226907,
-          "perCapitaShares": 1.1,
-          "changePercent": -8.28
+          "shareholders": 213031,
+          "perCapitaShares": 1.2,
+          "changePercent": 0.28
         },
         {
           "quarter": "2024Q4",
-          "shareholders": 222459,
-          "perCapitaShares": 1.2,
-          "changePercent": -1.96
+          "shareholders": 210403,
+          "perCapitaShares": 1.3,
+          "changePercent": -1.23
         },
         {
           "quarter": "2025Q1",
-          "shareholders": 208310,
+          "shareholders": 199900,
           "perCapitaShares": 1.3,
-          "changePercent": -6.36
+          "changePercent": -4.99
         },
         {
           "quarter": "2025Q2",
-          "shareholders": 209664,
+          "shareholders": 203431,
           "perCapitaShares": 1.4,
-          "changePercent": 0.65
+          "changePercent": 1.77
         },
         {
           "quarter": "2025Q3",
-          "shareholders": 194882,
-          "perCapitaShares": 1.4,
-          "changePercent": -7.05
+          "shareholders": 184818,
+          "perCapitaShares": 1.5,
+          "changePercent": -9.15
         },
         {
           "quarter": "2025Q4",
-          "shareholders": 179077,
-          "perCapitaShares": 1.6,
-          "changePercent": -8.11
+          "shareholders": 183410,
+          "perCapitaShares": 1.4,
+          "changePercent": -0.76
         }
       ],
       "peCurrent": 5.8,
       "pbCurrent": 0.95,
-      "pePercentile": 17.9,
-      "pbPercentile": 10.5,
-      "hasMacdBottomDivergence": true,
-      "macdDivergenceDate": "2025-04-10",
-      "macdDivergenceStrength": 0.67,
-      "chipConcentration": 75.8,
-      "chipLevel": "高度集中",
+      "pePercentile": 34.2,
+      "pbPercentile": 35.9,
+      "hasMacdBottomDivergence": false,
+      "macdDivergenceDate": null,
+      "macdDivergenceStrength": 0,
+      "chipConcentration": 74.5,
+      "chipLevel": "极度集中",
       "trendAnalysis": {
         "shortTerm": "震荡",
-        "mediumTerm": "震荡",
+        "mediumTerm": "上涨",
         "longTerm": "上涨",
         "supportLevels": [
-          26.03
+          25.25
         ],
         "resistanceLevels": [
-          38.4
+          38.2
         ],
-        "upsidePotential": 36.6,
-        "downsideRisk": 8.3,
-        "winLossRatio": 4.41,
-        "confidenceLevel": 0.72,
-        "analysisSummary": "股价位于三年底部区域，69.3分底部评分，建议关注。"
+        "upsidePotential": 55.2,
+        "downsideRisk": 11.0,
+        "winLossRatio": 5.02,
+        "confidenceLevel": 0.67,
+        "analysisSummary": "股价位于三年底部区域，79.1分底部评分，建议关注。"
       }
     },
     {
       "id": "601318",
       "name": "中国平安",
-      "currentPrice": 35.2,
-      "priceChangePercent": 1.49,
+      "currentPrice": 35.21,
+      "priceChangePercent": 1.5,
       "isNearBottom": true,
-      "bottomScore": 70.6,
-      "三年低价": 31.7,
-      "三年高价": 63.52,
-      "三年中价": 47.61,
-      "当前位置百分位": 13.7,
+      "bottomScore": 73.0,
+      "三年低价": 33.79,
+      "三年高价": 71.44,
+      "三年中价": 52.61,
+      "当前位置百分位": 30.0,
       "shareholderTrend": [
         {
           "quarter": "2021Q1",
-          "shareholders": 230982,
-          "perCapitaShares": 1.7,
-          "changePercent": 1.64
+          "shareholders": 254048,
+          "perCapitaShares": 1.4,
+          "changePercent": 2.79
         },
         {
           "quarter": "2021Q2",
-          "shareholders": 233268,
-          "perCapitaShares": 1.5,
-          "changePercent": 0.99
+          "shareholders": 249935,
+          "perCapitaShares": 1.4,
+          "changePercent": -1.62
         },
         {
           "quarter": "2021Q3",
-          "shareholders": 230235,
-          "perCapitaShares": 1.7,
-          "changePercent": -1.3
+          "shareholders": 240149,
+          "perCapitaShares": 1.6,
+          "changePercent": -3.92
         },
         {
           "quarter": "2021Q4",
-          "shareholders": 224087,
+          "shareholders": 246451,
           "perCapitaShares": 1.4,
-          "changePercent": -2.67
+          "changePercent": 2.62
         },
         {
           "quarter": "2022Q1",
-          "shareholders": 217700,
-          "perCapitaShares": 1.7,
-          "changePercent": -2.85
+          "shareholders": 239399,
+          "perCapitaShares": 1.5,
+          "changePercent": -2.86
         },
         {
           "quarter": "2022Q2",
-          "shareholders": 221553,
-          "perCapitaShares": 1.5,
-          "changePercent": 1.77
+          "shareholders": 236382,
+          "perCapitaShares": 1.4,
+          "changePercent": -1.26
         },
         {
           "quarter": "2022Q3",
-          "shareholders": 213820,
-          "perCapitaShares": 1.7,
-          "changePercent": -3.49
+          "shareholders": 232840,
+          "perCapitaShares": 1.4,
+          "changePercent": -1.5
         },
         {
           "quarter": "2022Q4",
-          "shareholders": 219742,
-          "perCapitaShares": 1.8,
-          "changePercent": 2.77
+          "shareholders": 224891,
+          "perCapitaShares": 1.5,
+          "changePercent": -3.41
         },
         {
           "quarter": "2023Q1",
-          "shareholders": 224004,
+          "shareholders": 223622,
           "perCapitaShares": 1.7,
-          "changePercent": 1.94
+          "changePercent": -0.56
         },
         {
           "quarter": "2023Q2",
-          "shareholders": 230186,
-          "perCapitaShares": 1.4,
-          "changePercent": 2.76
+          "shareholders": 224706,
+          "perCapitaShares": 1.6,
+          "changePercent": 0.48
         },
         {
           "quarter": "2023Q3",
-          "shareholders": 233408,
+          "shareholders": 214957,
           "perCapitaShares": 1.7,
-          "changePercent": 1.4
+          "changePercent": -4.34
         },
         {
           "quarter": "2023Q4",
-          "shareholders": 223954,
-          "perCapitaShares": 1.7,
-          "changePercent": -4.05
+          "shareholders": 220921,
+          "perCapitaShares": 1.5,
+          "changePercent": 2.77
         },
         {
           "quarter": "2024Q1",
-          "shareholders": 224065,
-          "perCapitaShares": 1.5,
-          "changePercent": 0.05
+          "shareholders": 210940,
+          "perCapitaShares": 1.6,
+          "changePercent": -4.52
         },
         {
           "quarter": "2024Q2",
-          "shareholders": 219337,
-          "perCapitaShares": 1.5,
-          "changePercent": -2.11
+          "shareholders": 201576,
+          "perCapitaShares": 1.8,
+          "changePercent": -4.44
         },
         {
           "quarter": "2024Q3",
-          "shareholders": 213107,
-          "perCapitaShares": 1.5,
-          "changePercent": -2.84
+          "shareholders": 192397,
+          "perCapitaShares": 1.8,
+          "changePercent": -4.55
         },
         {
           "quarter": "2024Q4",
-          "shareholders": 194715,
-          "perCapitaShares": 1.8,
-          "changePercent": -8.63
+          "shareholders": 191788,
+          "perCapitaShares": 1.7,
+          "changePercent": -0.32
         },
         {
           "quarter": "2025Q1",
-          "shareholders": 187315,
-          "perCapitaShares": 2.0,
-          "changePercent": -3.8
+          "shareholders": 178525,
+          "perCapitaShares": 2.1,
+          "changePercent": -6.92
         },
         {
           "quarter": "2025Q2",
-          "shareholders": 177443,
-          "perCapitaShares": 2.1,
-          "changePercent": -5.27
+          "shareholders": 173812,
+          "perCapitaShares": 2.2,
+          "changePercent": -2.64
         },
         {
           "quarter": "2025Q3",
-          "shareholders": 160887,
-          "perCapitaShares": 2.3,
-          "changePercent": -9.33
+          "shareholders": 174321,
+          "perCapitaShares": 2.0,
+          "changePercent": 0.29
         },
         {
           "quarter": "2025Q4",
-          "shareholders": 151973,
-          "perCapitaShares": 2.5,
-          "changePercent": -5.54
+          "shareholders": 170957,
+          "perCapitaShares": 2.1,
+          "changePercent": -1.93
         }
       ],
       "peCurrent": 8.5,
       "pbCurrent": 0.88,
-      "pePercentile": 26.8,
-      "pbPercentile": 8.8,
-      "hasMacdBottomDivergence": false,
-      "macdDivergenceDate": null,
-      "macdDivergenceStrength": 0,
-      "chipConcentration": 67.1,
-      "chipLevel": "中度集中",
+      "pePercentile": 33.6,
+      "pbPercentile": 19.1,
+      "hasMacdBottomDivergence": true,
+      "macdDivergenceDate": "2026-04-11",
+      "macdDivergenceStrength": 0.76,
+      "chipConcentration": 66.6,
+      "chipLevel": "极度集中",
       "trendAnalysis": {
-        "shortTerm": "震荡",
-        "mediumTerm": "下跌",
+        "shortTerm": "上涨",
+        "mediumTerm": "上涨",
         "longTerm": "上涨",
         "supportLevels": [
-          30.23
+          33.31
         ],
         "resistanceLevels": [
-          46.87
+          55.02
         ],
-        "upsidePotential": 67.9,
-        "downsideRisk": 7.7,
-        "winLossRatio": 8.82,
-        "confidenceLevel": 0.75,
-        "analysisSummary": "股价位于三年底部区域，70.6分底部评分，建议关注。"
+        "upsidePotential": 66.8,
+        "downsideRisk": 14.6,
+        "winLossRatio": 4.58,
+        "confidenceLevel": 0.69,
+        "analysisSummary": "股价位于三年底部区域，73.0分底部评分，建议关注。"
       }
     },
     {
       "id": "600519",
       "name": "贵州茅台",
-      "currentPrice": 1280.0,
-      "priceChangePercent": -0.66,
+      "currentPrice": 1177.66,
+      "priceChangePercent": 3.9,
       "isNearBottom": true,
-      "bottomScore": 85.5,
-      "三年低价": 1171.99,
-      "三年高价": 2398.07,
-      "三年中价": 1785.03,
-      "当前位置百分位": 20.3,
+      "bottomScore": 63.3,
+      "三年低价": 1053.64,
+      "三年高价": 2350.53,
+      "三年中价": 1702.09,
+      "当前位置百分位": 14.6,
       "shareholderTrend": [
         {
           "quarter": "2021Q1",
-          "shareholders": 361842,
-          "perCapitaShares": 35.5,
-          "changePercent": -4.97
+          "shareholders": 266191,
+          "perCapitaShares": 48.3,
+          "changePercent": 2.71
         },
         {
           "quarter": "2021Q2",
-          "shareholders": 345378,
-          "perCapitaShares": 37.6,
-          "changePercent": -4.55
+          "shareholders": 262405,
+          "perCapitaShares": 45.4,
+          "changePercent": -1.42
         },
         {
           "quarter": "2021Q3",
-          "shareholders": 332322,
-          "perCapitaShares": 35.7,
-          "changePercent": -3.78
+          "shareholders": 264022,
+          "perCapitaShares": 45.1,
+          "changePercent": 0.62
         },
         {
           "quarter": "2021Q4",
-          "shareholders": 328865,
-          "perCapitaShares": 41.9,
-          "changePercent": -1.04
+          "shareholders": 255060,
+          "perCapitaShares": 49.1,
+          "changePercent": -3.39
         },
         {
           "quarter": "2022Q1",
-          "shareholders": 314723,
-          "perCapitaShares": 44.2,
-          "changePercent": -4.3
+          "shareholders": 262161,
+          "perCapitaShares": 45.2,
+          "changePercent": 2.78
         },
         {
           "quarter": "2022Q2",
-          "shareholders": 319034,
-          "perCapitaShares": 36.4,
-          "changePercent": 1.37
+          "shareholders": 261838,
+          "perCapitaShares": 44.9,
+          "changePercent": -0.12
         },
         {
           "quarter": "2022Q3",
-          "shareholders": 315588,
-          "perCapitaShares": 41.5,
-          "changePercent": -1.08
+          "shareholders": 259655,
+          "perCapitaShares": 47.2,
+          "changePercent": -0.83
         },
         {
           "quarter": "2022Q4",
-          "shareholders": 305362,
-          "perCapitaShares": 38.1,
-          "changePercent": -3.24
+          "shareholders": 252912,
+          "perCapitaShares": 49.7,
+          "changePercent": -2.6
         },
         {
           "quarter": "2023Q1",
-          "shareholders": 308293,
-          "perCapitaShares": 37.6,
-          "changePercent": 0.96
+          "shareholders": 243365,
+          "perCapitaShares": 43.9,
+          "changePercent": -3.77
         },
         {
           "quarter": "2023Q2",
-          "shareholders": 306998,
-          "perCapitaShares": 40.4,
-          "changePercent": -0.42
+          "shareholders": 232757,
+          "perCapitaShares": 47.8,
+          "changePercent": -4.36
         },
         {
           "quarter": "2023Q3",
-          "shareholders": 307366,
-          "perCapitaShares": 45.3,
-          "changePercent": 0.12
+          "shareholders": 221664,
+          "perCapitaShares": 48.6,
+          "changePercent": -4.77
         },
         {
           "quarter": "2023Q4",
-          "shareholders": 296731,
-          "perCapitaShares": 43.7,
-          "changePercent": -3.46
+          "shareholders": 220558,
+          "perCapitaShares": 54.2,
+          "changePercent": -0.5
         },
         {
           "quarter": "2024Q1",
-          "shareholders": 273882,
-          "perCapitaShares": 44.3,
-          "changePercent": -7.7
+          "shareholders": 219360,
+          "perCapitaShares": 58.4,
+          "changePercent": -0.54
         },
         {
           "quarter": "2024Q2",
-          "shareholders": 257284,
-          "perCapitaShares": 54.1,
-          "changePercent": -6.06
+          "shareholders": 208393,
+          "perCapitaShares": 57.5,
+          "changePercent": -5.0
         },
         {
           "quarter": "2024Q3",
-          "shareholders": 236289,
-          "perCapitaShares": 55.7,
-          "changePercent": -8.16
+          "shareholders": 204869,
+          "perCapitaShares": 55.6,
+          "changePercent": -1.69
         },
         {
           "quarter": "2024Q4",
-          "shareholders": 218638,
-          "perCapitaShares": 55.1,
-          "changePercent": -7.47
+          "shareholders": 200305,
+          "perCapitaShares": 58.1,
+          "changePercent": -2.23
         },
         {
           "quarter": "2025Q1",
-          "shareholders": 198326,
-          "perCapitaShares": 68.8,
-          "changePercent": -9.29
+          "shareholders": 185284,
+          "perCapitaShares": 58.1,
+          "changePercent": -7.5
         },
         {
           "quarter": "2025Q2",
-          "shareholders": 192277,
-          "perCapitaShares": 70.0,
-          "changePercent": -3.05
+          "shareholders": 176906,
+          "perCapitaShares": 69.6,
+          "changePercent": -4.52
         },
         {
           "quarter": "2025Q3",
-          "shareholders": 175298,
-          "perCapitaShares": 66.5,
-          "changePercent": -8.83
+          "shareholders": 162915,
+          "perCapitaShares": 70.7,
+          "changePercent": -7.91
         },
         {
           "quarter": "2025Q4",
-          "shareholders": 163658,
-          "perCapitaShares": 72.6,
-          "changePercent": -6.64
+          "shareholders": 161588,
+          "perCapitaShares": 77.0,
+          "changePercent": -0.81
         }
       ],
       "peCurrent": 22.0,
       "pbCurrent": 5.2,
-      "pePercentile": 12.3,
-      "pbPercentile": 20.9,
-      "hasMacdBottomDivergence": false,
-      "macdDivergenceDate": null,
-      "macdDivergenceStrength": 0,
-      "chipConcentration": 73.2,
+      "pePercentile": 7.5,
+      "pbPercentile": 34.4,
+      "hasMacdBottomDivergence": true,
+      "macdDivergenceDate": "2026-03-29",
+      "macdDivergenceStrength": 0.75,
+      "chipConcentration": 79.9,
       "chipLevel": "中度集中",
       "trendAnalysis": {
         "shortTerm": "上涨",
         "mediumTerm": "震荡",
         "longTerm": "上涨",
         "supportLevels": [
-          1158.16
+          1009.77
         ],
         "resistanceLevels": [
-          1842.35
+          1952.45
         ],
-        "upsidePotential": 44.6,
-        "downsideRisk": 7.9,
-        "winLossRatio": 5.65,
-        "confidenceLevel": 0.77,
-        "analysisSummary": "股价位于三年底部区域，85.5分底部评分，建议关注。"
+        "upsidePotential": 66.5,
+        "downsideRisk": 5.7,
+        "winLossRatio": 11.67,
+        "confidenceLevel": 0.69,
+        "analysisSummary": "股价位于三年底部区域，63.3分底部评分，建议关注。"
       }
     },
     {
       "id": "000858",
       "name": "五粮液",
-      "currentPrice": 105.0,
-      "priceChangePercent": -2.19,
+      "currentPrice": 113.31,
+      "priceChangePercent": -0.44,
       "isNearBottom": true,
-      "bottomScore": 85.5,
-      "三年低价": 99.93,
-      "三年高价": 170.09,
-      "三年中价": 135.01,
-      "当前位置百分位": 21.8,
+      "bottomScore": 76.9,
+      "三年低价": 100.87,
+      "三年高价": 197.38,
+      "三年中价": 149.12,
+      "当前位置百分位": 7.1,
       "shareholderTrend": [
         {
           "quarter": "2021Q1",
-          "shareholders": 353713,
-          "perCapitaShares": 2.8,
-          "changePercent": 1.42
+          "shareholders": 251396,
+          "perCapitaShares": 4.9,
+          "changePercent": 2.15
         },
         {
           "quarter": "2021Q2",
-          "shareholders": 347912,
-          "perCapitaShares": 2.8,
-          "changePercent": -1.64
+          "shareholders": 249237,
+          "perCapitaShares": 5.0,
+          "changePercent": -0.86
         },
         {
           "quarter": "2021Q3",
-          "shareholders": 341719,
-          "perCapitaShares": 3.1,
-          "changePercent": -1.78
+          "shareholders": 246518,
+          "perCapitaShares": 4.8,
+          "changePercent": -1.09
         },
         {
           "quarter": "2021Q4",
-          "shareholders": 339361,
-          "perCapitaShares": 3.0,
-          "changePercent": -0.69
+          "shareholders": 248295,
+          "perCapitaShares": 4.2,
+          "changePercent": 0.72
         },
         {
           "quarter": "2022Q1",
-          "shareholders": 348218,
-          "perCapitaShares": 3.2,
-          "changePercent": 2.61
+          "shareholders": 243590,
+          "perCapitaShares": 4.5,
+          "changePercent": -1.89
         },
         {
           "quarter": "2022Q2",
-          "shareholders": 332339,
-          "perCapitaShares": 3.4,
-          "changePercent": -4.56
+          "shareholders": 231583,
+          "perCapitaShares": 4.5,
+          "changePercent": -4.93
         },
         {
           "quarter": "2022Q3",
-          "shareholders": 319543,
-          "perCapitaShares": 3.5,
-          "changePercent": -3.85
+          "shareholders": 233555,
+          "perCapitaShares": 4.5,
+          "changePercent": 0.85
         },
         {
           "quarter": "2022Q4",
-          "shareholders": 328298,
-          "perCapitaShares": 3.1,
-          "changePercent": 2.74
+          "shareholders": 224783,
+          "perCapitaShares": 5.0,
+          "changePercent": -3.76
         },
         {
           "quarter": "2023Q1",
-          "shareholders": 326919,
-          "perCapitaShares": 3.3,
-          "changePercent": -0.42
+          "shareholders": 217227,
+          "perCapitaShares": 5.3,
+          "changePercent": -3.36
         },
         {
           "quarter": "2023Q2",
-          "shareholders": 331593,
-          "perCapitaShares": 3.0,
-          "changePercent": 1.43
+          "shareholders": 207999,
+          "perCapitaShares": 5.8,
+          "changePercent": -4.25
         },
         {
           "quarter": "2023Q3",
-          "shareholders": 324297,
-          "perCapitaShares": 3.5,
-          "changePercent": -2.2
+          "shareholders": 205714,
+          "perCapitaShares": 5.5,
+          "changePercent": -1.1
         },
         {
           "quarter": "2023Q4",
-          "shareholders": 311033,
-          "perCapitaShares": 3.7,
-          "changePercent": -4.09
+          "shareholders": 203744,
+          "perCapitaShares": 5.1,
+          "changePercent": -0.96
         },
         {
           "quarter": "2024Q1",
-          "shareholders": 311064,
-          "perCapitaShares": 3.7,
-          "changePercent": 0.01
+          "shareholders": 189530,
+          "perCapitaShares": 6.1,
+          "changePercent": -6.98
         },
         {
           "quarter": "2024Q2",
-          "shareholders": 287236,
-          "perCapitaShares": 3.9,
-          "changePercent": -7.66
+          "shareholders": 187012,
+          "perCapitaShares": 5.9,
+          "changePercent": -1.33
         },
         {
           "quarter": "2024Q3",
-          "shareholders": 287638,
-          "perCapitaShares": 3.8,
-          "changePercent": 0.14
+          "shareholders": 189227,
+          "perCapitaShares": 5.6,
+          "changePercent": 1.18
         },
         {
           "quarter": "2024Q4",
-          "shareholders": 261146,
-          "perCapitaShares": 3.8,
-          "changePercent": -9.21
+          "shareholders": 173245,
+          "perCapitaShares": 7.1,
+          "changePercent": -8.45
         },
         {
           "quarter": "2025Q1",
-          "shareholders": 257124,
-          "perCapitaShares": 4.3,
-          "changePercent": -1.54
+          "shareholders": 175150,
+          "perCapitaShares": 7.0,
+          "changePercent": 1.1
         },
         {
           "quarter": "2025Q2",
-          "shareholders": 250155,
-          "perCapitaShares": 4.4,
-          "changePercent": -2.71
+          "shareholders": 158514,
+          "perCapitaShares": 7.3,
+          "changePercent": -9.5
         },
         {
           "quarter": "2025Q3",
-          "shareholders": 241549,
-          "perCapitaShares": 4.1,
-          "changePercent": -3.44
+          "shareholders": 144618,
+          "perCapitaShares": 7.8,
+          "changePercent": -8.77
         },
         {
           "quarter": "2025Q4",
-          "shareholders": 218046,
-          "perCapitaShares": 4.9,
-          "changePercent": -9.73
+          "shareholders": 132660,
+          "perCapitaShares": 9.1,
+          "changePercent": -8.27
         }
       ],
       "peCurrent": 12.5,
       "pbCurrent": 2.3,
-      "pePercentile": 12.8,
-      "pbPercentile": 31.2,
+      "pePercentile": 33.5,
+      "pbPercentile": 33.6,
       "hasMacdBottomDivergence": false,
       "macdDivergenceDate": null,
       "macdDivergenceStrength": 0,
-      "chipConcentration": 74.6,
+      "chipConcentration": 74.1,
       "chipLevel": "高度集中",
       "trendAnalysis": {
         "shortTerm": "上涨",
         "mediumTerm": "震荡",
         "longTerm": "震荡",
         "supportLevels": [
-          95.69
+          99.07
         ],
         "resistanceLevels": [
-          119.69
+          172.79
         ],
-        "upsidePotential": 65.5,
-        "downsideRisk": 14.3,
-        "winLossRatio": 4.58,
-        "confidenceLevel": 0.76,
-        "analysisSummary": "股价位于三年底部区域，85.5分底部评分，建议关注。"
+        "upsidePotential": 72.2,
+        "downsideRisk": 5.1,
+        "winLossRatio": 14.16,
+        "confidenceLevel": 0.83,
+        "analysisSummary": "股价位于三年底部区域，76.9分底部评分，建议关注。"
       }
     },
     {
       "id": "002475",
       "name": "立讯精密",
-      "currentPrice": 26.5,
-      "priceChangePercent": -4.25,
+      "currentPrice": 28.11,
+      "priceChangePercent": -1.45,
       "isNearBottom": true,
-      "bottomScore": 66.4,
-      "三年低价": 23.71,
-      "三年高价": 49.03,
-      "三年中价": 36.37,
-      "当前位置百分位": 17.9,
+      "bottomScore": 71.9,
+      "三年低价": 25.05,
+      "三年高价": 55.19,
+      "三年中价": 40.12,
+      "当前位置百分位": 26.7,
       "shareholderTrend": [
         {
           "quarter": "2021Q1",
-          "shareholders": 314779,
-          "perCapitaShares": 0.9,
-          "changePercent": -0.81
+          "shareholders": 227515,
+          "perCapitaShares": 1.3,
+          "changePercent": -3.85
         },
         {
           "quarter": "2021Q2",
-          "shareholders": 314338,
-          "perCapitaShares": 0.9,
-          "changePercent": -0.14
+          "shareholders": 225677,
+          "perCapitaShares": 1.2,
+          "changePercent": -0.81
         },
         {
           "quarter": "2021Q3",
-          "shareholders": 319461,
-          "perCapitaShares": 0.8,
-          "changePercent": 1.63
+          "shareholders": 223517,
+          "perCapitaShares": 1.4,
+          "changePercent": -0.96
         },
         {
           "quarter": "2021Q4",
-          "shareholders": 310995,
-          "perCapitaShares": 0.8,
-          "changePercent": -2.65
+          "shareholders": 214530,
+          "perCapitaShares": 1.3,
+          "changePercent": -4.02
         },
         {
           "quarter": "2022Q1",
-          "shareholders": 309595,
-          "perCapitaShares": 0.8,
-          "changePercent": -0.45
+          "shareholders": 218637,
+          "perCapitaShares": 1.2,
+          "changePercent": 1.91
         },
         {
           "quarter": "2022Q2",
-          "shareholders": 298109,
-          "perCapitaShares": 0.8,
-          "changePercent": -3.71
+          "shareholders": 220954,
+          "perCapitaShares": 1.3,
+          "changePercent": 1.06
         },
         {
           "quarter": "2022Q3",
-          "shareholders": 292474,
-          "perCapitaShares": 0.9,
-          "changePercent": -1.89
+          "shareholders": 212899,
+          "perCapitaShares": 1.3,
+          "changePercent": -3.65
         },
         {
           "quarter": "2022Q4",
-          "shareholders": 289315,
-          "perCapitaShares": 1.0,
-          "changePercent": -1.08
+          "shareholders": 215459,
+          "perCapitaShares": 1.3,
+          "changePercent": 1.2
         },
         {
           "quarter": "2023Q1",
-          "shareholders": 279449,
-          "perCapitaShares": 0.9,
-          "changePercent": -3.41
+          "shareholders": 207510,
+          "perCapitaShares": 1.3,
+          "changePercent": -3.69
         },
         {
           "quarter": "2023Q2",
-          "shareholders": 267572,
-          "perCapitaShares": 1.0,
-          "changePercent": -4.25
+          "shareholders": 203446,
+          "perCapitaShares": 1.4,
+          "changePercent": -1.96
         },
         {
           "quarter": "2023Q3",
-          "shareholders": 266287,
-          "perCapitaShares": 1.0,
-          "changePercent": -0.48
+          "shareholders": 208748,
+          "perCapitaShares": 1.4,
+          "changePercent": 2.61
         },
         {
           "quarter": "2023Q4",
-          "shareholders": 253691,
-          "perCapitaShares": 1.0,
-          "changePercent": -4.73
+          "shareholders": 212437,
+          "perCapitaShares": 1.2,
+          "changePercent": 1.77
         },
         {
           "quarter": "2024Q1",
-          "shareholders": 238520,
-          "perCapitaShares": 1.1,
-          "changePercent": -5.98
+          "shareholders": 216151,
+          "perCapitaShares": 1.4,
+          "changePercent": 1.75
         },
         {
           "quarter": "2024Q2",
-          "shareholders": 224161,
-          "perCapitaShares": 1.1,
-          "changePercent": -6.02
+          "shareholders": 220424,
+          "perCapitaShares": 1.4,
+          "changePercent": 1.98
         },
         {
           "quarter": "2024Q3",
-          "shareholders": 211787,
-          "perCapitaShares": 1.3,
-          "changePercent": -5.52
+          "shareholders": 199871,
+          "perCapitaShares": 1.5,
+          "changePercent": -9.32
         },
         {
           "quarter": "2024Q4",
-          "shareholders": 213904,
+          "shareholders": 198836,
           "perCapitaShares": 1.3,
-          "changePercent": 1.0
+          "changePercent": -0.52
         },
         {
           "quarter": "2025Q1",
-          "shareholders": 213262,
-          "perCapitaShares": 1.3,
-          "changePercent": -0.3
+          "shareholders": 201189,
+          "perCapitaShares": 1.4,
+          "changePercent": 1.18
         },
         {
           "quarter": "2025Q2",
-          "shareholders": 203665,
-          "perCapitaShares": 1.2,
-          "changePercent": -4.5
+          "shareholders": 185849,
+          "perCapitaShares": 1.5,
+          "changePercent": -7.62
         },
         {
           "quarter": "2025Q3",
-          "shareholders": 203033,
-          "perCapitaShares": 1.3,
-          "changePercent": -0.31
+          "shareholders": 169828,
+          "perCapitaShares": 1.8,
+          "changePercent": -8.62
         },
         {
           "quarter": "2025Q4",
-          "shareholders": 194424,
-          "perCapitaShares": 1.3,
-          "changePercent": -4.24
+          "shareholders": 159131,
+          "perCapitaShares": 1.9,
+          "changePercent": -6.3
         }
       ],
       "peCurrent": 18.0,
       "pbCurrent": 3.2,
-      "pePercentile": 10.3,
-      "pbPercentile": 5.9,
+      "pePercentile": 33.2,
+      "pbPercentile": 26.5,
       "hasMacdBottomDivergence": false,
       "macdDivergenceDate": null,
       "macdDivergenceStrength": 0,
-      "chipConcentration": 73.0,
-      "chipLevel": "极度集中",
+      "chipConcentration": 87.4,
+      "chipLevel": "中度集中",
       "trendAnalysis": {
         "shortTerm": "震荡",
-        "mediumTerm": "震荡",
-        "longTerm": "震荡",
+        "mediumTerm": "下跌",
+        "longTerm": "上涨",
         "supportLevels": [
-          22.58
+          24.42
         ],
         "resistanceLevels": [
-          40.19
+          41.18
         ],
-        "upsidePotential": 60.8,
-        "downsideRisk": 6.6,
-        "winLossRatio": 9.21,
-        "confidenceLevel": 0.83,
-        "analysisSummary": "股价位于三年底部区域，66.4分底部评分，建议关注。"
+        "upsidePotential": 67.5,
+        "downsideRisk": 8.2,
+        "winLossRatio": 8.23,
+        "confidenceLevel": 0.67,
+        "analysisSummary": "股价位于三年底部区域，71.9分底部评分，建议关注。"
       }
     },
     {
       "id": "600585",
       "name": "海螺水泥",
-      "currentPrice": 18.2,
-      "priceChangePercent": 3.5,
+      "currentPrice": 17.11,
+      "priceChangePercent": -4.56,
       "isNearBottom": true,
-      "bottomScore": 86.2,
-      "三年低价": 16.39,
-      "三年高价": 39.98,
-      "三年中价": 28.18,
-      "当前位置百分位": 22.6,
+      "bottomScore": 86.3,
+      "三年低价": 16.32,
+      "三年高价": 33.94,
+      "三年中价": 25.13,
+      "当前位置百分位": 14.7,
       "shareholderTrend": [
         {
           "quarter": "2021Q1",
-          "shareholders": 277368,
-          "perCapitaShares": 0.7,
-          "changePercent": 2.81
+          "shareholders": 158763,
+          "perCapitaShares": 1.1,
+          "changePercent": -3.93
         },
         {
           "quarter": "2021Q2",
-          "shareholders": 278421,
-          "perCapitaShares": 0.6,
-          "changePercent": 0.38
+          "shareholders": 159144,
+          "perCapitaShares": 1.1,
+          "changePercent": 0.24
         },
         {
           "quarter": "2021Q3",
-          "shareholders": 273186,
-          "perCapitaShares": 0.6,
-          "changePercent": -1.88
+          "shareholders": 159038,
+          "perCapitaShares": 1.0,
+          "changePercent": -0.07
         },
         {
           "quarter": "2021Q4",
-          "shareholders": 261302,
-          "perCapitaShares": 0.8,
-          "changePercent": -4.35
+          "shareholders": 153931,
+          "perCapitaShares": 1.0,
+          "changePercent": -3.21
         },
         {
           "quarter": "2022Q1",
-          "shareholders": 254795,
-          "perCapitaShares": 0.8,
-          "changePercent": -2.49
+          "shareholders": 153893,
+          "perCapitaShares": 1.2,
+          "changePercent": -0.02
         },
         {
           "quarter": "2022Q2",
-          "shareholders": 262158,
-          "perCapitaShares": 0.7,
-          "changePercent": 2.89
+          "shareholders": 153149,
+          "perCapitaShares": 1.0,
+          "changePercent": -0.48
         },
         {
           "quarter": "2022Q3",
-          "shareholders": 264884,
-          "perCapitaShares": 0.6,
-          "changePercent": 1.04
+          "shareholders": 148774,
+          "perCapitaShares": 1.1,
+          "changePercent": -2.86
         },
         {
           "quarter": "2022Q4",
-          "shareholders": 260937,
-          "perCapitaShares": 0.8,
-          "changePercent": -1.49
+          "shareholders": 145501,
+          "perCapitaShares": 1.3,
+          "changePercent": -2.2
         },
         {
           "quarter": "2023Q1",
-          "shareholders": 259293,
-          "perCapitaShares": 0.7,
-          "changePercent": -0.63
+          "shareholders": 144438,
+          "perCapitaShares": 1.3,
+          "changePercent": -0.73
         },
         {
           "quarter": "2023Q2",
-          "shareholders": 249725,
-          "perCapitaShares": 0.7,
-          "changePercent": -3.69
+          "shareholders": 140399,
+          "perCapitaShares": 1.2,
+          "changePercent": -2.8
         },
         {
           "quarter": "2023Q3",
-          "shareholders": 255019,
-          "perCapitaShares": 0.8,
-          "changePercent": 2.12
+          "shareholders": 139156,
+          "perCapitaShares": 1.3,
+          "changePercent": -0.88
         },
         {
           "quarter": "2023Q4",
-          "shareholders": 260093,
-          "perCapitaShares": 0.8,
-          "changePercent": 1.99
+          "shareholders": 137914,
+          "perCapitaShares": 1.2,
+          "changePercent": -0.89
         },
         {
           "quarter": "2024Q1",
-          "shareholders": 255801,
-          "perCapitaShares": 0.8,
-          "changePercent": -1.65
+          "shareholders": 125299,
+          "perCapitaShares": 1.3,
+          "changePercent": -9.15
         },
         {
           "quarter": "2024Q2",
-          "shareholders": 234518,
-          "perCapitaShares": 0.8,
-          "changePercent": -8.32
+          "shareholders": 123303,
+          "perCapitaShares": 1.4,
+          "changePercent": -1.59
         },
         {
           "quarter": "2024Q3",
-          "shareholders": 212637,
-          "perCapitaShares": 0.8,
-          "changePercent": -9.33
+          "shareholders": 117715,
+          "perCapitaShares": 1.4,
+          "changePercent": -4.53
         },
         {
           "quarter": "2024Q4",
-          "shareholders": 198411,
-          "perCapitaShares": 0.9,
-          "changePercent": -6.69
+          "shareholders": 117551,
+          "perCapitaShares": 1.3,
+          "changePercent": -0.14
         },
         {
           "quarter": "2025Q1",
-          "shareholders": 180732,
-          "perCapitaShares": 0.9,
-          "changePercent": -8.91
+          "shareholders": 106895,
+          "perCapitaShares": 1.5,
+          "changePercent": -9.06
         },
         {
           "quarter": "2025Q2",
-          "shareholders": 168460,
-          "perCapitaShares": 1.2,
-          "changePercent": -6.79
+          "shareholders": 100014,
+          "perCapitaShares": 1.7,
+          "changePercent": -6.44
         },
         {
           "quarter": "2025Q3",
-          "shareholders": 160778,
-          "perCapitaShares": 1.1,
-          "changePercent": -4.56
+          "shareholders": 100046,
+          "perCapitaShares": 1.8,
+          "changePercent": 0.03
         },
         {
           "quarter": "2025Q4",
-          "shareholders": 148382,
-          "perCapitaShares": 1.3,
-          "changePercent": -7.71
+          "shareholders": 98682,
+          "perCapitaShares": 1.8,
+          "changePercent": -1.36
         }
       ],
       "peCurrent": 7.5,
       "pbCurrent": 0.85,
-      "pePercentile": 7.8,
-      "pbPercentile": 22.9,
-      "hasMacdBottomDivergence": true,
-      "macdDivergenceDate": "2025-04-10",
-      "macdDivergenceStrength": 0.71,
-      "chipConcentration": 73.8,
-      "chipLevel": "极度集中",
+      "pePercentile": 15.8,
+      "pbPercentile": 24.8,
+      "hasMacdBottomDivergence": false,
+      "macdDivergenceDate": null,
+      "macdDivergenceStrength": 0,
+      "chipConcentration": 78.2,
+      "chipLevel": "高度集中",
       "trendAnalysis": {
         "shortTerm": "震荡",
         "mediumTerm": "震荡",
         "longTerm": "上涨",
         "supportLevels": [
-          15.89
+          16.19
         ],
         "resistanceLevels": [
-          32.35
+          28.45
         ],
-        "upsidePotential": 75.8,
-        "downsideRisk": 7.4,
-        "winLossRatio": 10.24,
-        "confidenceLevel": 0.65,
-        "analysisSummary": "股价位于三年底部区域，86.2分底部评分，建议关注。"
+        "upsidePotential": 70.1,
+        "downsideRisk": 9.1,
+        "winLossRatio": 7.7,
+        "confidenceLevel": 0.7,
+        "analysisSummary": "股价位于三年底部区域，86.3分底部评分，建议关注。"
       }
     },
     {
       "id": "601888",
       "name": "中国中免",
-      "currentPrice": 52.0,
-      "priceChangePercent": -4.54,
+      "currentPrice": 56.98,
+      "priceChangePercent": 0.8,
       "isNearBottom": true,
-      "bottomScore": 79.5,
-      "三年低价": 48.19,
-      "三年高价": 95.79,
-      "三年中价": 71.99,
-      "当前位置百分位": 18.9,
+      "bottomScore": 62.0,
+      "三年低价": 53.51,
+      "三年高价": 98.32,
+      "三年中价": 75.91,
+      "当前位置百分位": 29.8,
       "shareholderTrend": [
         {
           "quarter": "2021Q1",
-          "shareholders": 287562,
+          "shareholders": 295633,
           "perCapitaShares": 1.7,
-          "changePercent": -1.26
+          "changePercent": -3.42
         },
         {
           "quarter": "2021Q2",
-          "shareholders": 280804,
-          "perCapitaShares": 2.0,
-          "changePercent": -2.35
+          "shareholders": 294747,
+          "perCapitaShares": 1.8,
+          "changePercent": -0.3
         },
         {
           "quarter": "2021Q3",
-          "shareholders": 280186,
-          "perCapitaShares": 2.0,
-          "changePercent": -0.22
+          "shareholders": 300399,
+          "perCapitaShares": 1.8,
+          "changePercent": 1.92
         },
         {
           "quarter": "2021Q4",
-          "shareholders": 283155,
-          "perCapitaShares": 1.8,
-          "changePercent": 1.06
+          "shareholders": 293599,
+          "perCapitaShares": 2.1,
+          "changePercent": -2.26
         },
         {
           "quarter": "2022Q1",
-          "shareholders": 285476,
+          "shareholders": 298322,
           "perCapitaShares": 1.8,
-          "changePercent": 0.82
+          "changePercent": 1.61
         },
         {
           "quarter": "2022Q2",
-          "shareholders": 277482,
-          "perCapitaShares": 2.0,
-          "changePercent": -2.8
+          "shareholders": 304655,
+          "perCapitaShares": 1.9,
+          "changePercent": 2.12
         },
         {
           "quarter": "2022Q3",
-          "shareholders": 267159,
-          "perCapitaShares": 2.1,
-          "changePercent": -3.72
+          "shareholders": 302703,
+          "perCapitaShares": 2.0,
+          "changePercent": -0.64
         },
         {
           "quarter": "2022Q4",
-          "shareholders": 264914,
-          "perCapitaShares": 2.0,
-          "changePercent": -0.84
+          "shareholders": 306588,
+          "perCapitaShares": 1.9,
+          "changePercent": 1.28
         },
         {
           "quarter": "2023Q1",
-          "shareholders": 254582,
+          "shareholders": 302098,
           "perCapitaShares": 1.9,
-          "changePercent": -3.9
+          "changePercent": -1.46
         },
         {
           "quarter": "2023Q2",
-          "shareholders": 259164,
-          "perCapitaShares": 1.9,
-          "changePercent": 1.8
+          "shareholders": 308261,
+          "perCapitaShares": 2.0,
+          "changePercent": 2.04
         },
         {
           "quarter": "2023Q3",
-          "shareholders": 252244,
-          "perCapitaShares": 2.3,
-          "changePercent": -2.67
+          "shareholders": 307721,
+          "perCapitaShares": 2.0,
+          "changePercent": -0.18
         },
         {
           "quarter": "2023Q4",
-          "shareholders": 245458,
-          "perCapitaShares": 2.1,
-          "changePercent": -2.69
+          "shareholders": 306382,
+          "perCapitaShares": 1.7,
+          "changePercent": -0.43
         },
         {
           "quarter": "2024Q1",
-          "shareholders": 231982,
-          "perCapitaShares": 2.2,
-          "changePercent": -5.49
+          "shareholders": 292269,
+          "perCapitaShares": 1.9,
+          "changePercent": -4.61
         },
         {
           "quarter": "2024Q2",
-          "shareholders": 227040,
+          "shareholders": 276632,
           "perCapitaShares": 2.1,
-          "changePercent": -2.13
+          "changePercent": -5.35
         },
         {
           "quarter": "2024Q3",
-          "shareholders": 208717,
-          "perCapitaShares": 2.4,
-          "changePercent": -8.07
+          "shareholders": 275754,
+          "perCapitaShares": 2.2,
+          "changePercent": -0.32
         },
         {
           "quarter": "2024Q4",
-          "shareholders": 190475,
-          "perCapitaShares": 2.7,
-          "changePercent": -8.74
+          "shareholders": 256457,
+          "perCapitaShares": 2.4,
+          "changePercent": -7.0
         },
         {
           "quarter": "2025Q1",
-          "shareholders": 182322,
-          "perCapitaShares": 2.6,
-          "changePercent": -4.28
+          "shareholders": 238828,
+          "perCapitaShares": 2.4,
+          "changePercent": -6.87
         },
         {
           "quarter": "2025Q2",
-          "shareholders": 180608,
-          "perCapitaShares": 3.0,
-          "changePercent": -0.94
+          "shareholders": 235889,
+          "perCapitaShares": 2.5,
+          "changePercent": -1.23
         },
         {
           "quarter": "2025Q3",
-          "shareholders": 178007,
-          "perCapitaShares": 3.1,
-          "changePercent": -1.44
+          "shareholders": 213971,
+          "perCapitaShares": 2.5,
+          "changePercent": -9.29
         },
         {
           "quarter": "2025Q4",
-          "shareholders": 165404,
-          "perCapitaShares": 3.1,
-          "changePercent": -7.08
+          "shareholders": 217535,
+          "perCapitaShares": 2.7,
+          "changePercent": 1.67
         }
       ],
       "peCurrent": 18.0,
       "pbCurrent": 4.5,
-      "pePercentile": 27.7,
-      "pbPercentile": 39.3,
-      "hasMacdBottomDivergence": true,
-      "macdDivergenceDate": "2025-04-10",
-      "macdDivergenceStrength": 0.89,
-      "chipConcentration": 85.6,
-      "chipLevel": "极度集中",
+      "pePercentile": 15.1,
+      "pbPercentile": 26.1,
+      "hasMacdBottomDivergence": false,
+      "macdDivergenceDate": null,
+      "macdDivergenceStrength": 0,
+      "chipConcentration": 67.6,
+      "chipLevel": "中度集中",
       "trendAnalysis": {
-        "shortTerm": "上涨",
+        "shortTerm": "震荡",
         "mediumTerm": "下跌",
         "longTerm": "上涨",
         "supportLevels": [
-          46.86
+          52.9
         ],
         "resistanceLevels": [
-          75.85
+          81.78
         ],
-        "upsidePotential": 37.6,
-        "downsideRisk": 13.5,
-        "winLossRatio": 2.79,
-        "confidenceLevel": 0.75,
-        "analysisSummary": "股价位于三年底部区域，79.5分底部评分，建议关注。"
+        "upsidePotential": 77.6,
+        "downsideRisk": 13.4,
+        "winLossRatio": 5.79,
+        "confidenceLevel": 0.82,
+        "analysisSummary": "股价位于三年底部区域，62.0分底部评分，建议关注。"
       }
     },
     {
       "id": "002594",
       "name": "比亚迪",
-      "currentPrice": 172.0,
-      "priceChangePercent": 3.99,
+      "currentPrice": 174.86,
+      "priceChangePercent": -4.29,
       "isNearBottom": true,
-      "bottomScore": 66.4,
-      "三年低价": 156.61,
-      "三年高价": 327.09,
-      "三年中价": 241.85,
-      "当前位置百分位": 17.5,
+      "bottomScore": 69.8,
+      "三年低价": 155.72,
+      "三年高价": 333.02,
+      "三年中价": 244.37,
+      "当前位置百分位": 16.6,
       "shareholderTrend": [
         {
           "quarter": "2021Q1",
-          "shareholders": 226128,
-          "perCapitaShares": 7.7,
-          "changePercent": -0.44
+          "shareholders": 159230,
+          "perCapitaShares": 12.1,
+          "changePercent": -0.92
         },
         {
           "quarter": "2021Q2",
-          "shareholders": 223414,
-          "perCapitaShares": 7.1,
-          "changePercent": -1.2
+          "shareholders": 163856,
+          "perCapitaShares": 10.5,
+          "changePercent": 2.91
         },
         {
           "quarter": "2021Q3",
-          "shareholders": 227256,
-          "perCapitaShares": 7.5,
-          "changePercent": 1.72
+          "shareholders": 162791,
+          "perCapitaShares": 11.7,
+          "changePercent": -0.65
         },
         {
           "quarter": "2021Q4",
-          "shareholders": 230642,
-          "perCapitaShares": 7.7,
-          "changePercent": 1.49
+          "shareholders": 164620,
+          "perCapitaShares": 10.2,
+          "changePercent": 1.12
         },
         {
           "quarter": "2022Q1",
-          "shareholders": 226651,
-          "perCapitaShares": 7.0,
-          "changePercent": -1.73
+          "shareholders": 167381,
+          "perCapitaShares": 11.2,
+          "changePercent": 1.68
         },
         {
           "quarter": "2022Q2",
-          "shareholders": 225971,
-          "perCapitaShares": 8.1,
-          "changePercent": -0.3
+          "shareholders": 162540,
+          "perCapitaShares": 11.2,
+          "changePercent": -2.89
         },
         {
           "quarter": "2022Q3",
-          "shareholders": 227688,
-          "perCapitaShares": 8.0,
-          "changePercent": 0.76
+          "shareholders": 165234,
+          "perCapitaShares": 10.5,
+          "changePercent": 1.66
         },
         {
           "quarter": "2022Q4",
-          "shareholders": 233972,
-          "perCapitaShares": 7.4,
-          "changePercent": 2.76
+          "shareholders": 169298,
+          "perCapitaShares": 9.9,
+          "changePercent": 2.46
         },
         {
           "quarter": "2023Q1",
-          "shareholders": 235001,
-          "perCapitaShares": 7.2,
-          "changePercent": 0.44
+          "shareholders": 162756,
+          "perCapitaShares": 11.2,
+          "changePercent": -3.86
         },
         {
           "quarter": "2023Q2",
-          "shareholders": 224660,
-          "perCapitaShares": 7.7,
-          "changePercent": -4.4
+          "shareholders": 164927,
+          "perCapitaShares": 10.1,
+          "changePercent": 1.33
         },
         {
           "quarter": "2023Q3",
-          "shareholders": 219650,
-          "perCapitaShares": 8.5,
-          "changePercent": -2.23
+          "shareholders": 168069,
+          "perCapitaShares": 9.8,
+          "changePercent": 1.91
         },
         {
           "quarter": "2023Q4",
-          "shareholders": 220330,
-          "perCapitaShares": 7.3,
-          "changePercent": 0.31
+          "shareholders": 165839,
+          "perCapitaShares": 9.6,
+          "changePercent": -1.33
         },
         {
           "quarter": "2024Q1",
-          "shareholders": 218104,
-          "perCapitaShares": 7.7,
-          "changePercent": -1.01
+          "shareholders": 166813,
+          "perCapitaShares": 9.6,
+          "changePercent": 0.59
         },
         {
           "quarter": "2024Q2",
-          "shareholders": 211430,
-          "perCapitaShares": 7.3,
-          "changePercent": -3.06
+          "shareholders": 163041,
+          "perCapitaShares": 10.8,
+          "changePercent": -2.26
         },
         {
           "quarter": "2024Q3",
-          "shareholders": 203945,
-          "perCapitaShares": 8.9,
-          "changePercent": -3.54
+          "shareholders": 153869,
+          "perCapitaShares": 10.8,
+          "changePercent": -5.63
         },
         {
           "quarter": "2024Q4",
-          "shareholders": 189118,
-          "perCapitaShares": 9.9,
-          "changePercent": -7.27
+          "shareholders": 147436,
+          "perCapitaShares": 12.3,
+          "changePercent": -4.18
         },
         {
           "quarter": "2025Q1",
-          "shareholders": 189969,
-          "perCapitaShares": 8.9,
-          "changePercent": 0.45
+          "shareholders": 146020,
+          "perCapitaShares": 12.9,
+          "changePercent": -0.96
         },
         {
           "quarter": "2025Q2",
-          "shareholders": 177583,
-          "perCapitaShares": 10.6,
-          "changePercent": -6.52
+          "shareholders": 134895,
+          "perCapitaShares": 12.4,
+          "changePercent": -7.62
         },
         {
           "quarter": "2025Q3",
-          "shareholders": 167904,
-          "perCapitaShares": 9.5,
-          "changePercent": -5.45
+          "shareholders": 126465,
+          "perCapitaShares": 14.7,
+          "changePercent": -6.25
         },
         {
           "quarter": "2025Q4",
-          "shareholders": 154555,
-          "perCapitaShares": 11.8,
-          "changePercent": -7.95
+          "shareholders": 128204,
+          "perCapitaShares": 13.4,
+          "changePercent": 1.38
         }
       ],
       "peCurrent": 15.0,
       "pbCurrent": 2.8,
-      "pePercentile": 8.9,
-      "pbPercentile": 35.8,
+      "pePercentile": 24.5,
+      "pbPercentile": 18.7,
       "hasMacdBottomDivergence": false,
       "macdDivergenceDate": null,
       "macdDivergenceStrength": 0,
-      "chipConcentration": 88.0,
-      "chipLevel": "极度集中",
-      "trendAnalysis": {
-        "shortTerm": "震荡",
-        "mediumTerm": "下跌",
-        "longTerm": "上涨",
-        "supportLevels": [
-          149.55
-        ],
-        "resistanceLevels": [
-          230.99
-        ],
-        "upsidePotential": 54.4,
-        "downsideRisk": 14.0,
-        "winLossRatio": 3.89,
-        "confidenceLevel": 0.76,
-        "analysisSummary": "股价位于三年底部区域，66.4分底部评分，建议关注。"
-      }
-    },
-    {
-      "id": "600887",
-      "name": "伊利股份",
-      "currentPrice": 22.5,
-      "priceChangePercent": 4.96,
-      "isNearBottom": true,
-      "bottomScore": 87.4,
-      "三年低价": 21.06,
-      "三年高价": 48.41,
-      "三年中价": 34.73,
-      "当前位置百分位": 25.9,
-      "shareholderTrend": [
-        {
-          "quarter": "2021Q1",
-          "shareholders": 159126,
-          "perCapitaShares": 1.4,
-          "changePercent": 2.06
-        },
-        {
-          "quarter": "2021Q2",
-          "shareholders": 151360,
-          "perCapitaShares": 1.6,
-          "changePercent": -4.88
-        },
-        {
-          "quarter": "2021Q3",
-          "shareholders": 145911,
-          "perCapitaShares": 1.6,
-          "changePercent": -3.6
-        },
-        {
-          "quarter": "2021Q4",
-          "shareholders": 148829,
-          "perCapitaShares": 1.5,
-          "changePercent": 2.0
-        },
-        {
-          "quarter": "2022Q1",
-          "shareholders": 148546,
-          "perCapitaShares": 1.7,
-          "changePercent": -0.19
-        },
-        {
-          "quarter": "2022Q2",
-          "shareholders": 149660,
-          "perCapitaShares": 1.4,
-          "changePercent": 0.75
-        },
-        {
-          "quarter": "2022Q3",
-          "shareholders": 153700,
-          "perCapitaShares": 1.6,
-          "changePercent": 2.7
-        },
-        {
-          "quarter": "2022Q4",
-          "shareholders": 155067,
-          "perCapitaShares": 1.4,
-          "changePercent": 0.89
-        },
-        {
-          "quarter": "2023Q1",
-          "shareholders": 157082,
-          "perCapitaShares": 1.4,
-          "changePercent": 1.3
-        },
-        {
-          "quarter": "2023Q2",
-          "shareholders": 158605,
-          "perCapitaShares": 1.3,
-          "changePercent": 0.97
-        },
-        {
-          "quarter": "2023Q3",
-          "shareholders": 153561,
-          "perCapitaShares": 1.3,
-          "changePercent": -3.18
-        },
-        {
-          "quarter": "2023Q4",
-          "shareholders": 158121,
-          "perCapitaShares": 1.5,
-          "changePercent": 2.97
-        },
-        {
-          "quarter": "2024Q1",
-          "shareholders": 157646,
-          "perCapitaShares": 1.6,
-          "changePercent": -0.3
-        },
-        {
-          "quarter": "2024Q2",
-          "shareholders": 158859,
-          "perCapitaShares": 1.4,
-          "changePercent": 0.77
-        },
-        {
-          "quarter": "2024Q3",
-          "shareholders": 153473,
-          "perCapitaShares": 1.4,
-          "changePercent": -3.39
-        },
-        {
-          "quarter": "2024Q4",
-          "shareholders": 138816,
-          "perCapitaShares": 1.6,
-          "changePercent": -9.55
-        },
-        {
-          "quarter": "2025Q1",
-          "shareholders": 132749,
-          "perCapitaShares": 1.8,
-          "changePercent": -4.37
-        },
-        {
-          "quarter": "2025Q2",
-          "shareholders": 126801,
-          "perCapitaShares": 1.7,
-          "changePercent": -4.48
-        },
-        {
-          "quarter": "2025Q3",
-          "shareholders": 127054,
-          "perCapitaShares": 1.9,
-          "changePercent": 0.2
-        },
-        {
-          "quarter": "2025Q4",
-          "shareholders": 127867,
-          "perCapitaShares": 1.9,
-          "changePercent": 0.64
-        }
-      ],
-      "peCurrent": 9.0,
-      "pbCurrent": 2.0,
-      "pePercentile": 11.8,
-      "pbPercentile": 10.3,
-      "hasMacdBottomDivergence": true,
-      "macdDivergenceDate": "2025-04-10",
-      "macdDivergenceStrength": 0.88,
-      "chipConcentration": 79.1,
-      "chipLevel": "极度集中",
-      "trendAnalysis": {
-        "shortTerm": "震荡",
-        "mediumTerm": "上涨",
-        "longTerm": "上涨",
-        "supportLevels": [
-          20.93
-        ],
-        "resistanceLevels": [
-          42.59
-        ],
-        "upsidePotential": 48.3,
-        "downsideRisk": 9.9,
-        "winLossRatio": 4.88,
-        "confidenceLevel": 0.71,
-        "analysisSummary": "股价位于三年底部区域，87.4分底部评分，建议关注。"
-      }
-    },
-    {
-      "id": "601166",
-      "name": "兴业银行",
-      "currentPrice": 13.2,
-      "priceChangePercent": -2.37,
-      "isNearBottom": true,
-      "bottomScore": 64.0,
-      "三年低价": 12.41,
-      "三年高价": 23.05,
-      "三年中价": 17.73,
-      "当前位置百分位": 10.3,
-      "shareholderTrend": [
-        {
-          "quarter": "2021Q1",
-          "shareholders": 188310,
-          "perCapitaShares": 0.8,
-          "changePercent": 2.58
-        },
-        {
-          "quarter": "2021Q2",
-          "shareholders": 184826,
-          "perCapitaShares": 0.7,
-          "changePercent": -1.85
-        },
-        {
-          "quarter": "2021Q3",
-          "shareholders": 177192,
-          "perCapitaShares": 0.7,
-          "changePercent": -4.13
-        },
-        {
-          "quarter": "2021Q4",
-          "shareholders": 177262,
-          "perCapitaShares": 0.8,
-          "changePercent": 0.04
-        },
-        {
-          "quarter": "2022Q1",
-          "shareholders": 178768,
-          "perCapitaShares": 0.7,
-          "changePercent": 0.85
-        },
-        {
-          "quarter": "2022Q2",
-          "shareholders": 177355,
-          "perCapitaShares": 0.7,
-          "changePercent": -0.79
-        },
-        {
-          "quarter": "2022Q3",
-          "shareholders": 168841,
-          "perCapitaShares": 0.8,
-          "changePercent": -4.8
-        },
-        {
-          "quarter": "2022Q4",
-          "shareholders": 170208,
-          "perCapitaShares": 0.8,
-          "changePercent": 0.81
-        },
-        {
-          "quarter": "2023Q1",
-          "shareholders": 166037,
-          "perCapitaShares": 0.8,
-          "changePercent": -2.45
-        },
-        {
-          "quarter": "2023Q2",
-          "shareholders": 165240,
-          "perCapitaShares": 0.8,
-          "changePercent": -0.48
-        },
-        {
-          "quarter": "2023Q3",
-          "shareholders": 164033,
-          "perCapitaShares": 0.8,
-          "changePercent": -0.73
-        },
-        {
-          "quarter": "2023Q4",
-          "shareholders": 165410,
-          "perCapitaShares": 0.8,
-          "changePercent": 0.84
-        },
-        {
-          "quarter": "2024Q1",
-          "shareholders": 163325,
-          "perCapitaShares": 0.7,
-          "changePercent": -1.26
-        },
-        {
-          "quarter": "2024Q2",
-          "shareholders": 147531,
-          "perCapitaShares": 0.9,
-          "changePercent": -9.67
-        },
-        {
-          "quarter": "2024Q3",
-          "shareholders": 143385,
-          "perCapitaShares": 0.9,
-          "changePercent": -2.81
-        },
-        {
-          "quarter": "2024Q4",
-          "shareholders": 140933,
-          "perCapitaShares": 1.0,
-          "changePercent": -1.71
-        },
-        {
-          "quarter": "2025Q1",
-          "shareholders": 141820,
-          "perCapitaShares": 0.9,
-          "changePercent": 0.63
-        },
-        {
-          "quarter": "2025Q2",
-          "shareholders": 128120,
-          "perCapitaShares": 1.1,
-          "changePercent": -9.66
-        },
-        {
-          "quarter": "2025Q3",
-          "shareholders": 127543,
-          "perCapitaShares": 0.9,
-          "changePercent": -0.45
-        },
-        {
-          "quarter": "2025Q4",
-          "shareholders": 123844,
-          "perCapitaShares": 1.2,
-          "changePercent": -2.9
-        }
-      ],
-      "peCurrent": 4.5,
-      "pbCurrent": 0.62,
-      "pePercentile": 13.6,
-      "pbPercentile": 13.4,
-      "hasMacdBottomDivergence": false,
-      "macdDivergenceDate": null,
-      "macdDivergenceStrength": 0,
-      "chipConcentration": 87.1,
-      "chipLevel": "高度集中",
-      "trendAnalysis": {
-        "shortTerm": "震荡",
-        "mediumTerm": "震荡",
-        "longTerm": "上涨",
-        "supportLevels": [
-          12.03
-        ],
-        "resistanceLevels": [
-          18.6
-        ],
-        "upsidePotential": 57.5,
-        "downsideRisk": 13.3,
-        "winLossRatio": 4.32,
-        "confidenceLevel": 0.7,
-        "analysisSummary": "股价位于三年底部区域，64.0分底部评分，建议关注。"
-      }
-    },
-    {
-      "id": "600030",
-      "name": "中信证券",
-      "currentPrice": 18.8,
-      "priceChangePercent": -1.61,
-      "isNearBottom": true,
-      "bottomScore": 80.4,
-      "三年低价": 17.17,
-      "三年高价": 40.07,
-      "三年中价": 28.62,
-      "当前位置百分位": 10.1,
-      "shareholderTrend": [
-        {
-          "quarter": "2021Q1",
-          "shareholders": 351649,
-          "perCapitaShares": 0.5,
-          "changePercent": -3.54
-        },
-        {
-          "quarter": "2021Q2",
-          "shareholders": 339200,
-          "perCapitaShares": 0.5,
-          "changePercent": -3.54
-        },
-        {
-          "quarter": "2021Q3",
-          "shareholders": 343372,
-          "perCapitaShares": 0.6,
-          "changePercent": 1.23
-        },
-        {
-          "quarter": "2021Q4",
-          "shareholders": 350514,
-          "perCapitaShares": 0.5,
-          "changePercent": 2.08
-        },
-        {
-          "quarter": "2022Q1",
-          "shareholders": 343924,
-          "perCapitaShares": 0.6,
-          "changePercent": -1.88
-        },
-        {
-          "quarter": "2022Q2",
-          "shareholders": 334947,
-          "perCapitaShares": 0.6,
-          "changePercent": -2.61
-        },
-        {
-          "quarter": "2022Q3",
-          "shareholders": 319740,
-          "perCapitaShares": 0.6,
-          "changePercent": -4.54
-        },
-        {
-          "quarter": "2022Q4",
-          "shareholders": 320923,
-          "perCapitaShares": 0.6,
-          "changePercent": 0.37
-        },
-        {
-          "quarter": "2023Q1",
-          "shareholders": 317392,
-          "perCapitaShares": 0.6,
-          "changePercent": -1.1
-        },
-        {
-          "quarter": "2023Q2",
-          "shareholders": 317423,
-          "perCapitaShares": 0.6,
-          "changePercent": 0.01
-        },
-        {
-          "quarter": "2023Q3",
-          "shareholders": 314978,
-          "perCapitaShares": 0.7,
-          "changePercent": -0.77
-        },
-        {
-          "quarter": "2023Q4",
-          "shareholders": 321781,
-          "perCapitaShares": 0.5,
-          "changePercent": 2.16
-        },
-        {
-          "quarter": "2024Q1",
-          "shareholders": 297390,
-          "perCapitaShares": 0.7,
-          "changePercent": -7.58
-        },
-        {
-          "quarter": "2024Q2",
-          "shareholders": 287100,
-          "perCapitaShares": 0.6,
-          "changePercent": -3.46
-        },
-        {
-          "quarter": "2024Q3",
-          "shareholders": 265998,
-          "perCapitaShares": 0.7,
-          "changePercent": -7.35
-        },
-        {
-          "quarter": "2024Q4",
-          "shareholders": 267593,
-          "perCapitaShares": 0.7,
-          "changePercent": 0.6
-        },
-        {
-          "quarter": "2025Q1",
-          "shareholders": 267940,
-          "perCapitaShares": 0.7,
-          "changePercent": 0.13
-        },
-        {
-          "quarter": "2025Q2",
-          "shareholders": 258320,
-          "perCapitaShares": 0.8,
-          "changePercent": -3.59
-        },
-        {
-          "quarter": "2025Q3",
-          "shareholders": 244086,
-          "perCapitaShares": 0.8,
-          "changePercent": -5.51
-        },
-        {
-          "quarter": "2025Q4",
-          "shareholders": 222337,
-          "perCapitaShares": 0.9,
-          "changePercent": -8.91
-        }
-      ],
-      "peCurrent": 14.0,
-      "pbCurrent": 1.35,
-      "pePercentile": 10.0,
-      "pbPercentile": 6.4,
-      "hasMacdBottomDivergence": true,
-      "macdDivergenceDate": "2025-04-10",
-      "macdDivergenceStrength": 0.72,
-      "chipConcentration": 68.8,
-      "chipLevel": "高度集中",
-      "trendAnalysis": {
-        "shortTerm": "上涨",
-        "mediumTerm": "下跌",
-        "longTerm": "震荡",
-        "supportLevels": [
-          17.05
-        ],
-        "resistanceLevels": [
-          28.57
-        ],
-        "upsidePotential": 56.8,
-        "downsideRisk": 14.5,
-        "winLossRatio": 3.92,
-        "confidenceLevel": 0.83,
-        "analysisSummary": "股价位于三年底部区域，80.4分底部评分，建议关注。"
-      }
-    },
-    {
-      "id": "002415",
-      "name": "海康威视",
-      "currentPrice": 27.5,
-      "priceChangePercent": 3.81,
-      "isNearBottom": true,
-      "bottomScore": 78.9,
-      "三年低价": 25.35,
-      "三年高价": 47.76,
-      "三年中价": 36.55,
-      "当前位置百分位": 27.2,
-      "shareholderTrend": [
-        {
-          "quarter": "2021Q1",
-          "shareholders": 290489,
-          "perCapitaShares": 0.9,
-          "changePercent": -2.97
-        },
-        {
-          "quarter": "2021Q2",
-          "shareholders": 293829,
-          "perCapitaShares": 1.0,
-          "changePercent": 1.15
-        },
-        {
-          "quarter": "2021Q3",
-          "shareholders": 285748,
-          "perCapitaShares": 0.9,
-          "changePercent": -2.75
-        },
-        {
-          "quarter": "2021Q4",
-          "shareholders": 288605,
-          "perCapitaShares": 0.9,
-          "changePercent": 1.0
-        },
-        {
-          "quarter": "2022Q1",
-          "shareholders": 288893,
-          "perCapitaShares": 1.0,
-          "changePercent": 0.1
-        },
-        {
-          "quarter": "2022Q2",
-          "shareholders": 286292,
-          "perCapitaShares": 0.9,
-          "changePercent": -0.9
-        },
-        {
-          "quarter": "2022Q3",
-          "shareholders": 285833,
-          "perCapitaShares": 1.0,
-          "changePercent": -0.16
-        },
-        {
-          "quarter": "2022Q4",
-          "shareholders": 282431,
-          "perCapitaShares": 1.0,
-          "changePercent": -1.19
-        },
-        {
-          "quarter": "2023Q1",
-          "shareholders": 269721,
-          "perCapitaShares": 1.0,
-          "changePercent": -4.5
-        },
-        {
-          "quarter": "2023Q2",
-          "shareholders": 271555,
-          "perCapitaShares": 1.0,
-          "changePercent": 0.68
-        },
-        {
-          "quarter": "2023Q3",
-          "shareholders": 264630,
-          "perCapitaShares": 0.9,
-          "changePercent": -2.55
-        },
-        {
-          "quarter": "2023Q4",
-          "shareholders": 271457,
-          "perCapitaShares": 1.0,
-          "changePercent": 2.58
-        },
-        {
-          "quarter": "2024Q1",
-          "shareholders": 259621,
-          "perCapitaShares": 1.0,
-          "changePercent": -4.36
-        },
-        {
-          "quarter": "2024Q2",
-          "shareholders": 238228,
-          "perCapitaShares": 1.2,
-          "changePercent": -8.24
-        },
-        {
-          "quarter": "2024Q3",
-          "shareholders": 224077,
-          "perCapitaShares": 1.2,
-          "changePercent": -5.94
-        },
-        {
-          "quarter": "2024Q4",
-          "shareholders": 206150,
-          "perCapitaShares": 1.3,
-          "changePercent": -8.0
-        },
-        {
-          "quarter": "2025Q1",
-          "shareholders": 201614,
-          "perCapitaShares": 1.5,
-          "changePercent": -2.2
-        },
-        {
-          "quarter": "2025Q2",
-          "shareholders": 185061,
-          "perCapitaShares": 1.3,
-          "changePercent": -8.21
-        },
-        {
-          "quarter": "2025Q3",
-          "shareholders": 169108,
-          "perCapitaShares": 1.7,
-          "changePercent": -8.62
-        },
-        {
-          "quarter": "2025Q4",
-          "shareholders": 168279,
-          "perCapitaShares": 1.7,
-          "changePercent": -0.49
-        }
-      ],
-      "peCurrent": 16.0,
-      "pbCurrent": 3.5,
-      "pePercentile": 30.5,
-      "pbPercentile": 34.8,
-      "hasMacdBottomDivergence": false,
-      "macdDivergenceDate": null,
-      "macdDivergenceStrength": 0,
-      "chipConcentration": 76.3,
+      "chipConcentration": 69.6,
       "chipLevel": "中度集中",
       "trendAnalysis": {
         "shortTerm": "震荡",
         "mediumTerm": "上涨",
         "longTerm": "上涨",
         "supportLevels": [
-          24.65
+          150.28
         ],
         "resistanceLevels": [
-          38.53
+          279.72
         ],
-        "upsidePotential": 61.6,
-        "downsideRisk": 12.9,
-        "winLossRatio": 4.78,
-        "confidenceLevel": 0.71,
-        "analysisSummary": "股价位于三年底部区域，78.9分底部评分，建议关注。"
+        "upsidePotential": 58.3,
+        "downsideRisk": 9.0,
+        "winLossRatio": 6.48,
+        "confidenceLevel": 0.84,
+        "analysisSummary": "股价位于三年底部区域，69.8分底部评分，建议关注。"
       }
     },
     {
-      "id": "600690",
-      "name": "海尔智家",
-      "currentPrice": 22.0,
-      "priceChangePercent": 2.06,
+      "id": "600887",
+      "name": "伊利股份",
+      "currentPrice": 22.95,
+      "priceChangePercent": -0.03,
       "isNearBottom": true,
-      "bottomScore": 70.3,
-      "三年低价": 19.56,
-      "三年高价": 40.55,
-      "三年中价": 30.05,
-      "当前位置百分位": 26.1,
+      "bottomScore": 85.2,
+      "三年低价": 21.44,
+      "三年高价": 47.6,
+      "三年中价": 34.52,
+      "当前位置百分位": 25.5,
       "shareholderTrend": [
         {
           "quarter": "2021Q1",
-          "shareholders": 327000,
-          "perCapitaShares": 0.6,
-          "changePercent": -2.7
+          "shareholders": 180526,
+          "perCapitaShares": 1.3,
+          "changePercent": -3.55
         },
         {
           "quarter": "2021Q2",
-          "shareholders": 325397,
-          "perCapitaShares": 0.6,
-          "changePercent": -0.49
+          "shareholders": 182627,
+          "perCapitaShares": 1.2,
+          "changePercent": 1.16
         },
         {
           "quarter": "2021Q3",
-          "shareholders": 323412,
-          "perCapitaShares": 0.6,
-          "changePercent": -0.61
+          "shareholders": 181557,
+          "perCapitaShares": 1.2,
+          "changePercent": -0.59
         },
         {
           "quarter": "2021Q4",
-          "shareholders": 311413,
-          "perCapitaShares": 0.7,
-          "changePercent": -3.71
+          "shareholders": 177351,
+          "perCapitaShares": 1.2,
+          "changePercent": -2.32
         },
         {
           "quarter": "2022Q1",
-          "shareholders": 319416,
-          "perCapitaShares": 0.7,
-          "changePercent": 2.57
+          "shareholders": 174518,
+          "perCapitaShares": 1.3,
+          "changePercent": -1.6
         },
         {
           "quarter": "2022Q2",
-          "shareholders": 312740,
-          "perCapitaShares": 0.7,
-          "changePercent": -2.09
+          "shareholders": 176275,
+          "perCapitaShares": 1.3,
+          "changePercent": 1.01
         },
         {
           "quarter": "2022Q3",
-          "shareholders": 309206,
-          "perCapitaShares": 0.7,
-          "changePercent": -1.13
+          "shareholders": 176787,
+          "perCapitaShares": 1.2,
+          "changePercent": 0.29
         },
         {
           "quarter": "2022Q4",
-          "shareholders": 295879,
-          "perCapitaShares": 0.8,
-          "changePercent": -4.31
+          "shareholders": 175518,
+          "perCapitaShares": 1.4,
+          "changePercent": -0.72
         },
         {
           "quarter": "2023Q1",
-          "shareholders": 300583,
-          "perCapitaShares": 0.7,
-          "changePercent": 1.59
+          "shareholders": 169441,
+          "perCapitaShares": 1.5,
+          "changePercent": -3.46
         },
         {
           "quarter": "2023Q2",
-          "shareholders": 303107,
-          "perCapitaShares": 0.8,
-          "changePercent": 0.84
+          "shareholders": 166091,
+          "perCapitaShares": 1.4,
+          "changePercent": -1.98
         },
         {
           "quarter": "2023Q3",
-          "shareholders": 311593,
-          "perCapitaShares": 0.6,
-          "changePercent": 2.8
+          "shareholders": 165014,
+          "perCapitaShares": 1.3,
+          "changePercent": -0.65
         },
         {
           "quarter": "2023Q4",
-          "shareholders": 305267,
-          "perCapitaShares": 0.7,
-          "changePercent": -2.03
+          "shareholders": 169884,
+          "perCapitaShares": 1.4,
+          "changePercent": 2.95
         },
         {
           "quarter": "2024Q1",
-          "shareholders": 287042,
-          "perCapitaShares": 0.8,
-          "changePercent": -5.97
+          "shareholders": 160768,
+          "perCapitaShares": 1.4,
+          "changePercent": -5.37
         },
         {
           "quarter": "2024Q2",
-          "shareholders": 267752,
-          "perCapitaShares": 0.8,
-          "changePercent": -6.72
+          "shareholders": 153443,
+          "perCapitaShares": 1.4,
+          "changePercent": -4.56
         },
         {
           "quarter": "2024Q3",
-          "shareholders": 245876,
-          "perCapitaShares": 0.9,
-          "changePercent": -8.17
+          "shareholders": 151640,
+          "perCapitaShares": 1.4,
+          "changePercent": -1.17
         },
         {
           "quarter": "2024Q4",
-          "shareholders": 225935,
-          "perCapitaShares": 1.1,
-          "changePercent": -8.11
+          "shareholders": 152158,
+          "perCapitaShares": 1.4,
+          "changePercent": 0.34
         },
         {
           "quarter": "2025Q1",
-          "shareholders": 210074,
-          "perCapitaShares": 1.1,
-          "changePercent": -7.02
+          "shareholders": 146306,
+          "perCapitaShares": 1.7,
+          "changePercent": -3.85
         },
         {
           "quarter": "2025Q2",
-          "shareholders": 199444,
-          "perCapitaShares": 1.1,
-          "changePercent": -5.06
+          "shareholders": 142957,
+          "perCapitaShares": 1.6,
+          "changePercent": -2.29
         },
         {
           "quarter": "2025Q3",
-          "shareholders": 186101,
-          "perCapitaShares": 1.1,
-          "changePercent": -6.69
+          "shareholders": 139970,
+          "perCapitaShares": 1.6,
+          "changePercent": -2.09
         },
         {
           "quarter": "2025Q4",
-          "shareholders": 182881,
-          "perCapitaShares": 1.3,
-          "changePercent": -1.73
+          "shareholders": 132709,
+          "perCapitaShares": 1.9,
+          "changePercent": -5.19
         }
       ],
-      "peCurrent": 11.0,
-      "pbCurrent": 2.2,
-      "pePercentile": 24.4,
-      "pbPercentile": 12.8,
+      "peCurrent": 9.0,
+      "pbCurrent": 2.0,
+      "pePercentile": 17.5,
+      "pbPercentile": 7.1,
       "hasMacdBottomDivergence": false,
       "macdDivergenceDate": null,
       "macdDivergenceStrength": 0,
-      "chipConcentration": 76.9,
+      "chipConcentration": 70.3,
+      "chipLevel": "极度集中",
+      "trendAnalysis": {
+        "shortTerm": "震荡",
+        "mediumTerm": "震荡",
+        "longTerm": "震荡",
+        "supportLevels": [
+          20.49
+        ],
+        "resistanceLevels": [
+          34.11
+        ],
+        "upsidePotential": 63.0,
+        "downsideRisk": 7.0,
+        "winLossRatio": 9.0,
+        "confidenceLevel": 0.72,
+        "analysisSummary": "股价位于三年底部区域，85.2分底部评分，建议关注。"
+      }
+    },
+    {
+      "id": "601166",
+      "name": "兴业银行",
+      "currentPrice": 13.81,
+      "priceChangePercent": -2.58,
+      "isNearBottom": true,
+      "bottomScore": 74.5,
+      "三年低价": 13.13,
+      "三年高价": 30.07,
+      "三年中价": 21.6,
+      "当前位置百分位": 23.6,
+      "shareholderTrend": [
+        {
+          "quarter": "2021Q1",
+          "shareholders": 164360,
+          "perCapitaShares": 0.9,
+          "changePercent": 2.34
+        },
+        {
+          "quarter": "2021Q2",
+          "shareholders": 158067,
+          "perCapitaShares": 0.9,
+          "changePercent": -3.83
+        },
+        {
+          "quarter": "2021Q3",
+          "shareholders": 162676,
+          "perCapitaShares": 0.9,
+          "changePercent": 2.92
+        },
+        {
+          "quarter": "2021Q4",
+          "shareholders": 161469,
+          "perCapitaShares": 0.8,
+          "changePercent": -0.74
+        },
+        {
+          "quarter": "2022Q1",
+          "shareholders": 158580,
+          "perCapitaShares": 0.8,
+          "changePercent": -1.79
+        },
+        {
+          "quarter": "2022Q2",
+          "shareholders": 155650,
+          "perCapitaShares": 0.9,
+          "changePercent": -1.85
+        },
+        {
+          "quarter": "2022Q3",
+          "shareholders": 153007,
+          "perCapitaShares": 1.0,
+          "changePercent": -1.7
+        },
+        {
+          "quarter": "2022Q4",
+          "shareholders": 147081,
+          "perCapitaShares": 0.9,
+          "changePercent": -3.87
+        },
+        {
+          "quarter": "2023Q1",
+          "shareholders": 144986,
+          "perCapitaShares": 1.0,
+          "changePercent": -1.42
+        },
+        {
+          "quarter": "2023Q2",
+          "shareholders": 146905,
+          "perCapitaShares": 1.0,
+          "changePercent": 1.32
+        },
+        {
+          "quarter": "2023Q3",
+          "shareholders": 141488,
+          "perCapitaShares": 1.0,
+          "changePercent": -3.69
+        },
+        {
+          "quarter": "2023Q4",
+          "shareholders": 137758,
+          "perCapitaShares": 0.9,
+          "changePercent": -2.64
+        },
+        {
+          "quarter": "2024Q1",
+          "shareholders": 124013,
+          "perCapitaShares": 1.1,
+          "changePercent": -9.98
+        },
+        {
+          "quarter": "2024Q2",
+          "shareholders": 119287,
+          "perCapitaShares": 1.1,
+          "changePercent": -3.81
+        },
+        {
+          "quarter": "2024Q3",
+          "shareholders": 120549,
+          "perCapitaShares": 1.2,
+          "changePercent": 1.06
+        },
+        {
+          "quarter": "2024Q4",
+          "shareholders": 113049,
+          "perCapitaShares": 1.1,
+          "changePercent": -6.22
+        },
+        {
+          "quarter": "2025Q1",
+          "shareholders": 102003,
+          "perCapitaShares": 1.4,
+          "changePercent": -9.77
+        },
+        {
+          "quarter": "2025Q2",
+          "shareholders": 95205,
+          "perCapitaShares": 1.6,
+          "changePercent": -6.66
+        },
+        {
+          "quarter": "2025Q3",
+          "shareholders": 93218,
+          "perCapitaShares": 1.6,
+          "changePercent": -2.09
+        },
+        {
+          "quarter": "2025Q4",
+          "shareholders": 93354,
+          "perCapitaShares": 1.6,
+          "changePercent": 0.15
+        }
+      ],
+      "peCurrent": 4.5,
+      "pbCurrent": 0.62,
+      "pePercentile": 20.5,
+      "pbPercentile": 5.3,
+      "hasMacdBottomDivergence": false,
+      "macdDivergenceDate": null,
+      "macdDivergenceStrength": 0,
+      "chipConcentration": 79.5,
+      "chipLevel": "中度集中",
+      "trendAnalysis": {
+        "shortTerm": "上涨",
+        "mediumTerm": "下跌",
+        "longTerm": "震荡",
+        "supportLevels": [
+          13.08
+        ],
+        "resistanceLevels": [
+          26.7
+        ],
+        "upsidePotential": 56.2,
+        "downsideRisk": 9.2,
+        "winLossRatio": 6.11,
+        "confidenceLevel": 0.63,
+        "analysisSummary": "股价位于三年底部区域，74.5分底部评分，建议关注。"
+      }
+    },
+    {
+      "id": "600030",
+      "name": "中信证券",
+      "currentPrice": 19.45,
+      "priceChangePercent": 4.92,
+      "isNearBottom": true,
+      "bottomScore": 69.4,
+      "三年低价": 18.2,
+      "三年高价": 39.78,
+      "三年中价": 28.99,
+      "当前位置百分位": 25.6,
+      "shareholderTrend": [
+        {
+          "quarter": "2021Q1",
+          "shareholders": 335472,
+          "perCapitaShares": 0.5,
+          "changePercent": -4.15
+        },
+        {
+          "quarter": "2021Q2",
+          "shareholders": 340527,
+          "perCapitaShares": 0.6,
+          "changePercent": 1.51
+        },
+        {
+          "quarter": "2021Q3",
+          "shareholders": 333562,
+          "perCapitaShares": 0.6,
+          "changePercent": -2.05
+        },
+        {
+          "quarter": "2021Q4",
+          "shareholders": 330077,
+          "perCapitaShares": 0.5,
+          "changePercent": -1.04
+        },
+        {
+          "quarter": "2022Q1",
+          "shareholders": 321221,
+          "perCapitaShares": 0.6,
+          "changePercent": -2.68
+        },
+        {
+          "quarter": "2022Q2",
+          "shareholders": 328844,
+          "perCapitaShares": 0.5,
+          "changePercent": 2.37
+        },
+        {
+          "quarter": "2022Q3",
+          "shareholders": 334526,
+          "perCapitaShares": 0.6,
+          "changePercent": 1.73
+        },
+        {
+          "quarter": "2022Q4",
+          "shareholders": 325722,
+          "perCapitaShares": 0.6,
+          "changePercent": -2.63
+        },
+        {
+          "quarter": "2023Q1",
+          "shareholders": 318845,
+          "perCapitaShares": 0.6,
+          "changePercent": -2.11
+        },
+        {
+          "quarter": "2023Q2",
+          "shareholders": 324690,
+          "perCapitaShares": 0.6,
+          "changePercent": 1.83
+        },
+        {
+          "quarter": "2023Q3",
+          "shareholders": 322939,
+          "perCapitaShares": 0.7,
+          "changePercent": -0.54
+        },
+        {
+          "quarter": "2023Q4",
+          "shareholders": 324758,
+          "perCapitaShares": 0.6,
+          "changePercent": 0.56
+        },
+        {
+          "quarter": "2024Q1",
+          "shareholders": 318175,
+          "perCapitaShares": 0.6,
+          "changePercent": -2.03
+        },
+        {
+          "quarter": "2024Q2",
+          "shareholders": 308658,
+          "perCapitaShares": 0.6,
+          "changePercent": -2.99
+        },
+        {
+          "quarter": "2024Q3",
+          "shareholders": 277983,
+          "perCapitaShares": 0.8,
+          "changePercent": -9.94
+        },
+        {
+          "quarter": "2024Q4",
+          "shareholders": 261682,
+          "perCapitaShares": 0.8,
+          "changePercent": -5.86
+        },
+        {
+          "quarter": "2025Q1",
+          "shareholders": 240401,
+          "perCapitaShares": 0.8,
+          "changePercent": -8.13
+        },
+        {
+          "quarter": "2025Q2",
+          "shareholders": 236343,
+          "perCapitaShares": 0.9,
+          "changePercent": -1.69
+        },
+        {
+          "quarter": "2025Q3",
+          "shareholders": 224687,
+          "perCapitaShares": 0.9,
+          "changePercent": -4.93
+        },
+        {
+          "quarter": "2025Q4",
+          "shareholders": 224350,
+          "perCapitaShares": 0.8,
+          "changePercent": -0.15
+        }
+      ],
+      "peCurrent": 14.0,
+      "pbCurrent": 1.35,
+      "pePercentile": 16.0,
+      "pbPercentile": 35.9,
+      "hasMacdBottomDivergence": true,
+      "macdDivergenceDate": "2026-03-30",
+      "macdDivergenceStrength": 0.52,
+      "chipConcentration": 65.0,
+      "chipLevel": "高度集中",
+      "trendAnalysis": {
+        "shortTerm": "震荡",
+        "mediumTerm": "下跌",
+        "longTerm": "上涨",
+        "supportLevels": [
+          17.65
+        ],
+        "resistanceLevels": [
+          32.93
+        ],
+        "upsidePotential": 51.7,
+        "downsideRisk": 7.1,
+        "winLossRatio": 7.28,
+        "confidenceLevel": 0.77,
+        "analysisSummary": "股价位于三年底部区域，69.4分底部评分，建议关注。"
+      }
+    },
+    {
+      "id": "002415",
+      "name": "海康威视",
+      "currentPrice": 28.29,
+      "priceChangePercent": -2.55,
+      "isNearBottom": true,
+      "bottomScore": 65.6,
+      "三年低价": 26.77,
+      "三年高价": 59.81,
+      "三年中价": 43.29,
+      "当前位置百分位": 18.3,
+      "shareholderTrend": [
+        {
+          "quarter": "2021Q1",
+          "shareholders": 293619,
+          "perCapitaShares": 0.9,
+          "changePercent": -0.45
+        },
+        {
+          "quarter": "2021Q2",
+          "shareholders": 295819,
+          "perCapitaShares": 1.0,
+          "changePercent": 0.75
+        },
+        {
+          "quarter": "2021Q3",
+          "shareholders": 296774,
+          "perCapitaShares": 1.0,
+          "changePercent": 0.32
+        },
+        {
+          "quarter": "2021Q4",
+          "shareholders": 288957,
+          "perCapitaShares": 0.9,
+          "changePercent": -2.63
+        },
+        {
+          "quarter": "2022Q1",
+          "shareholders": 280552,
+          "perCapitaShares": 0.9,
+          "changePercent": -2.91
+        },
+        {
+          "quarter": "2022Q2",
+          "shareholders": 271491,
+          "perCapitaShares": 1.0,
+          "changePercent": -3.23
+        },
+        {
+          "quarter": "2022Q3",
+          "shareholders": 272449,
+          "perCapitaShares": 1.0,
+          "changePercent": 0.35
+        },
+        {
+          "quarter": "2022Q4",
+          "shareholders": 261556,
+          "perCapitaShares": 1.1,
+          "changePercent": -4.0
+        },
+        {
+          "quarter": "2023Q1",
+          "shareholders": 258945,
+          "perCapitaShares": 1.0,
+          "changePercent": -1.0
+        },
+        {
+          "quarter": "2023Q2",
+          "shareholders": 249618,
+          "perCapitaShares": 1.0,
+          "changePercent": -3.6
+        },
+        {
+          "quarter": "2023Q3",
+          "shareholders": 241877,
+          "perCapitaShares": 1.1,
+          "changePercent": -3.1
+        },
+        {
+          "quarter": "2023Q4",
+          "shareholders": 247526,
+          "perCapitaShares": 1.2,
+          "changePercent": 2.34
+        },
+        {
+          "quarter": "2024Q1",
+          "shareholders": 245149,
+          "perCapitaShares": 1.1,
+          "changePercent": -0.96
+        },
+        {
+          "quarter": "2024Q2",
+          "shareholders": 221683,
+          "perCapitaShares": 1.4,
+          "changePercent": -9.57
+        },
+        {
+          "quarter": "2024Q3",
+          "shareholders": 209021,
+          "perCapitaShares": 1.4,
+          "changePercent": -5.71
+        },
+        {
+          "quarter": "2024Q4",
+          "shareholders": 191369,
+          "perCapitaShares": 1.5,
+          "changePercent": -8.45
+        },
+        {
+          "quarter": "2025Q1",
+          "shareholders": 186481,
+          "perCapitaShares": 1.5,
+          "changePercent": -2.55
+        },
+        {
+          "quarter": "2025Q2",
+          "shareholders": 173079,
+          "perCapitaShares": 1.6,
+          "changePercent": -7.19
+        },
+        {
+          "quarter": "2025Q3",
+          "shareholders": 169832,
+          "perCapitaShares": 1.6,
+          "changePercent": -1.88
+        },
+        {
+          "quarter": "2025Q4",
+          "shareholders": 170055,
+          "perCapitaShares": 1.8,
+          "changePercent": 0.13
+        }
+      ],
+      "peCurrent": 16.0,
+      "pbCurrent": 3.5,
+      "pePercentile": 13.3,
+      "pbPercentile": 17.0,
+      "hasMacdBottomDivergence": false,
+      "macdDivergenceDate": null,
+      "macdDivergenceStrength": 0,
+      "chipConcentration": 83.4,
       "chipLevel": "极度集中",
       "trendAnalysis": {
         "shortTerm": "震荡",
         "mediumTerm": "上涨",
         "longTerm": "上涨",
         "supportLevels": [
-          19.48
+          26.01
         ],
         "resistanceLevels": [
-          34.63
+          51.38
         ],
-        "upsidePotential": 34.3,
-        "downsideRisk": 10.7,
-        "winLossRatio": 3.21,
-        "confidenceLevel": 0.81,
-        "analysisSummary": "股价位于三年底部区域，70.3分底部评分，建议关注。"
+        "upsidePotential": 66.2,
+        "downsideRisk": 8.1,
+        "winLossRatio": 8.17,
+        "confidenceLevel": 0.62,
+        "analysisSummary": "股价位于三年底部区域，65.6分底部评分，建议关注。"
+      }
+    },
+    {
+      "id": "600690",
+      "name": "海尔智家",
+      "currentPrice": 22.68,
+      "priceChangePercent": 3.37,
+      "isNearBottom": true,
+      "bottomScore": 62.7,
+      "三年低价": 21.25,
+      "三年高价": 43.61,
+      "三年中价": 32.43,
+      "当前位置百分位": 6.5,
+      "shareholderTrend": [
+        {
+          "quarter": "2021Q1",
+          "shareholders": 295114,
+          "perCapitaShares": 0.8,
+          "changePercent": -3.85
+        },
+        {
+          "quarter": "2021Q2",
+          "shareholders": 290804,
+          "perCapitaShares": 0.7,
+          "changePercent": -1.46
+        },
+        {
+          "quarter": "2021Q3",
+          "shareholders": 298888,
+          "perCapitaShares": 0.8,
+          "changePercent": 2.78
+        },
+        {
+          "quarter": "2021Q4",
+          "shareholders": 298478,
+          "perCapitaShares": 0.8,
+          "changePercent": -0.14
+        },
+        {
+          "quarter": "2022Q1",
+          "shareholders": 303872,
+          "perCapitaShares": 0.8,
+          "changePercent": 1.81
+        },
+        {
+          "quarter": "2022Q2",
+          "shareholders": 290635,
+          "perCapitaShares": 0.7,
+          "changePercent": -4.36
+        },
+        {
+          "quarter": "2022Q3",
+          "shareholders": 292968,
+          "perCapitaShares": 0.8,
+          "changePercent": 0.8
+        },
+        {
+          "quarter": "2022Q4",
+          "shareholders": 285336,
+          "perCapitaShares": 0.7,
+          "changePercent": -2.61
+        },
+        {
+          "quarter": "2023Q1",
+          "shareholders": 289146,
+          "perCapitaShares": 0.8,
+          "changePercent": 1.34
+        },
+        {
+          "quarter": "2023Q2",
+          "shareholders": 295475,
+          "perCapitaShares": 0.8,
+          "changePercent": 2.19
+        },
+        {
+          "quarter": "2023Q3",
+          "shareholders": 301731,
+          "perCapitaShares": 0.7,
+          "changePercent": 2.12
+        },
+        {
+          "quarter": "2023Q4",
+          "shareholders": 299530,
+          "perCapitaShares": 0.7,
+          "changePercent": -0.73
+        },
+        {
+          "quarter": "2024Q1",
+          "shareholders": 280410,
+          "perCapitaShares": 0.7,
+          "changePercent": -6.38
+        },
+        {
+          "quarter": "2024Q2",
+          "shareholders": 281837,
+          "perCapitaShares": 0.8,
+          "changePercent": 0.51
+        },
+        {
+          "quarter": "2024Q3",
+          "shareholders": 268573,
+          "perCapitaShares": 0.8,
+          "changePercent": -4.71
+        },
+        {
+          "quarter": "2024Q4",
+          "shareholders": 270997,
+          "perCapitaShares": 0.8,
+          "changePercent": 0.9
+        },
+        {
+          "quarter": "2025Q1",
+          "shareholders": 250972,
+          "perCapitaShares": 0.8,
+          "changePercent": -7.39
+        },
+        {
+          "quarter": "2025Q2",
+          "shareholders": 240301,
+          "perCapitaShares": 0.9,
+          "changePercent": -4.25
+        },
+        {
+          "quarter": "2025Q3",
+          "shareholders": 216305,
+          "perCapitaShares": 1.0,
+          "changePercent": -9.99
+        },
+        {
+          "quarter": "2025Q4",
+          "shareholders": 210663,
+          "perCapitaShares": 1.1,
+          "changePercent": -2.61
+        }
+      ],
+      "peCurrent": 11.0,
+      "pbCurrent": 2.2,
+      "pePercentile": 22.0,
+      "pbPercentile": 31.1,
+      "hasMacdBottomDivergence": false,
+      "macdDivergenceDate": null,
+      "macdDivergenceStrength": 0,
+      "chipConcentration": 86.3,
+      "chipLevel": "中度集中",
+      "trendAnalysis": {
+        "shortTerm": "震荡",
+        "mediumTerm": "震荡",
+        "longTerm": "上涨",
+        "supportLevels": [
+          20.24
+        ],
+        "resistanceLevels": [
+          32.09
+        ],
+        "upsidePotential": 78.0,
+        "downsideRisk": 14.0,
+        "winLossRatio": 5.57,
+        "confidenceLevel": 0.76,
+        "analysisSummary": "股价位于三年底部区域，62.7分底部评分，建议关注。"
       }
     },
     {
       "id": "000333",
       "name": "美的集团",
-      "currentPrice": 48.0,
-      "priceChangePercent": -1.42,
+      "currentPrice": 52.61,
+      "priceChangePercent": -0.7,
       "isNearBottom": true,
-      "bottomScore": 85.3,
-      "三年低价": 43.28,
-      "三年高价": 97.53,
-      "三年中价": 70.41,
-      "当前位置百分位": 11.7,
+      "bottomScore": 62.1,
+      "三年低价": 48.89,
+      "三年高价": 95.27,
+      "三年中价": 72.08,
+      "当前位置百分位": 27.5,
       "shareholderTrend": [
         {
           "quarter": "2021Q1",
-          "shareholders": 303252,
-          "perCapitaShares": 1.7,
-          "changePercent": 1.79
+          "shareholders": 308323,
+          "perCapitaShares": 1.6,
+          "changePercent": -4.89
         },
         {
           "quarter": "2021Q2",
-          "shareholders": 303858,
-          "perCapitaShares": 1.5,
-          "changePercent": 0.2
+          "shareholders": 307839,
+          "perCapitaShares": 1.7,
+          "changePercent": -0.16
         },
         {
           "quarter": "2021Q3",
-          "shareholders": 309874,
-          "perCapitaShares": 1.6,
-          "changePercent": 1.98
+          "shareholders": 316769,
+          "perCapitaShares": 1.8,
+          "changePercent": 2.9
         },
         {
           "quarter": "2021Q4",
-          "shareholders": 303211,
+          "shareholders": 323023,
           "perCapitaShares": 1.5,
-          "changePercent": -2.15
+          "changePercent": 1.97
         },
         {
           "quarter": "2022Q1",
-          "shareholders": 312034,
-          "perCapitaShares": 1.4,
-          "changePercent": 2.91
+          "shareholders": 332699,
+          "perCapitaShares": 1.5,
+          "changePercent": 3.0
         },
         {
           "quarter": "2022Q2",
-          "shareholders": 312127,
-          "perCapitaShares": 1.6,
-          "changePercent": 0.03
+          "shareholders": 319665,
+          "perCapitaShares": 1.5,
+          "changePercent": -3.92
         },
         {
           "quarter": "2022Q3",
-          "shareholders": 312907,
-          "perCapitaShares": 1.4,
-          "changePercent": 0.25
+          "shareholders": 322524,
+          "perCapitaShares": 1.6,
+          "changePercent": 0.89
         },
         {
           "quarter": "2022Q4",
-          "shareholders": 320009,
-          "perCapitaShares": 1.4,
-          "changePercent": 2.27
+          "shareholders": 322089,
+          "perCapitaShares": 1.6,
+          "changePercent": -0.13
         },
         {
           "quarter": "2023Q1",
-          "shareholders": 319720,
-          "perCapitaShares": 1.4,
-          "changePercent": -0.09
+          "shareholders": 328693,
+          "perCapitaShares": 1.8,
+          "changePercent": 2.05
         },
         {
           "quarter": "2023Q2",
-          "shareholders": 322213,
-          "perCapitaShares": 1.4,
-          "changePercent": 0.78
+          "shareholders": 333090,
+          "perCapitaShares": 1.5,
+          "changePercent": 1.34
         },
         {
           "quarter": "2023Q3",
-          "shareholders": 306521,
-          "perCapitaShares": 1.4,
-          "changePercent": -4.87
+          "shareholders": 326042,
+          "perCapitaShares": 1.7,
+          "changePercent": -2.12
         },
         {
           "quarter": "2023Q4",
-          "shareholders": 305662,
+          "shareholders": 326499,
           "perCapitaShares": 1.5,
-          "changePercent": -0.28
+          "changePercent": 0.14
         },
         {
           "quarter": "2024Q1",
-          "shareholders": 291357,
-          "perCapitaShares": 1.7,
-          "changePercent": -4.68
+          "shareholders": 297278,
+          "perCapitaShares": 1.8,
+          "changePercent": -8.95
         },
         {
           "quarter": "2024Q2",
-          "shareholders": 291327,
-          "perCapitaShares": 1.7,
-          "changePercent": -0.01
+          "shareholders": 270521,
+          "perCapitaShares": 2.0,
+          "changePercent": -9.0
         },
         {
           "quarter": "2024Q3",
-          "shareholders": 282849,
-          "perCapitaShares": 1.7,
-          "changePercent": -2.91
+          "shareholders": 268903,
+          "perCapitaShares": 1.8,
+          "changePercent": -0.6
         },
         {
           "quarter": "2024Q4",
-          "shareholders": 257986,
-          "perCapitaShares": 1.8,
-          "changePercent": -8.79
+          "shareholders": 273263,
+          "perCapitaShares": 1.7,
+          "changePercent": 1.62
         },
         {
           "quarter": "2025Q1",
-          "shareholders": 244622,
-          "perCapitaShares": 2.0,
-          "changePercent": -5.18
+          "shareholders": 273766,
+          "perCapitaShares": 1.8,
+          "changePercent": 0.18
         },
         {
           "quarter": "2025Q2",
-          "shareholders": 242493,
-          "perCapitaShares": 1.8,
-          "changePercent": -0.87
+          "shareholders": 263193,
+          "perCapitaShares": 1.9,
+          "changePercent": -3.86
         },
         {
           "quarter": "2025Q3",
-          "shareholders": 228379,
-          "perCapitaShares": 2.3,
-          "changePercent": -5.82
+          "shareholders": 239749,
+          "perCapitaShares": 2.2,
+          "changePercent": -8.91
         },
         {
           "quarter": "2025Q4",
-          "shareholders": 213374,
-          "perCapitaShares": 2.2,
-          "changePercent": -6.57
+          "shareholders": 226469,
+          "perCapitaShares": 2.3,
+          "changePercent": -5.54
         }
       ],
       "peCurrent": 10.5,
       "pbCurrent": 2.8,
-      "pePercentile": 30.4,
-      "pbPercentile": 31.4,
-      "hasMacdBottomDivergence": true,
-      "macdDivergenceDate": "2025-04-10",
-      "macdDivergenceStrength": 0.85,
-      "chipConcentration": 76.9,
-      "chipLevel": "高度集中",
+      "pePercentile": 15.1,
+      "pbPercentile": 32.1,
+      "hasMacdBottomDivergence": false,
+      "macdDivergenceDate": null,
+      "macdDivergenceStrength": 0,
+      "chipConcentration": 82.0,
+      "chipLevel": "极度集中",
       "trendAnalysis": {
         "shortTerm": "上涨",
         "mediumTerm": "下跌",
         "longTerm": "震荡",
         "supportLevels": [
-          42.63
+          48.17
         ],
         "resistanceLevels": [
-          77.18
+          81.99
         ],
-        "upsidePotential": 61.9,
-        "downsideRisk": 5.1,
-        "winLossRatio": 12.14,
-        "confidenceLevel": 0.8,
-        "analysisSummary": "股价位于三年底部区域，85.3分底部评分，建议关注。"
+        "upsidePotential": 56.1,
+        "downsideRisk": 12.7,
+        "winLossRatio": 4.42,
+        "confidenceLevel": 0.73,
+        "analysisSummary": "股价位于三年底部区域，62.1分底部评分，建议关注。"
+      }
+    },
+    {
+      "id": "600276",
+      "name": "恒瑞医药",
+      "currentPrice": 38.3,
+      "priceChangePercent": 4.58,
+      "isNearBottom": true,
+      "bottomScore": 87.3,
+      "三年低价": 35.11,
+      "三年高价": 82.26,
+      "三年中价": 58.69,
+      "当前位置百分位": 14.0,
+      "shareholderTrend": [
+        {
+          "quarter": "2021Q1",
+          "shareholders": 315955,
+          "perCapitaShares": 1.3,
+          "changePercent": -4.64
+        },
+        {
+          "quarter": "2021Q2",
+          "shareholders": 308518,
+          "perCapitaShares": 1.2,
+          "changePercent": -2.35
+        },
+        {
+          "quarter": "2021Q3",
+          "shareholders": 316197,
+          "perCapitaShares": 1.2,
+          "changePercent": 2.49
+        },
+        {
+          "quarter": "2021Q4",
+          "shareholders": 302143,
+          "perCapitaShares": 1.3,
+          "changePercent": -4.44
+        },
+        {
+          "quarter": "2022Q1",
+          "shareholders": 307842,
+          "perCapitaShares": 1.3,
+          "changePercent": 1.89
+        },
+        {
+          "quarter": "2022Q2",
+          "shareholders": 306231,
+          "perCapitaShares": 1.1,
+          "changePercent": -0.52
+        },
+        {
+          "quarter": "2022Q3",
+          "shareholders": 297178,
+          "perCapitaShares": 1.2,
+          "changePercent": -2.96
+        },
+        {
+          "quarter": "2022Q4",
+          "shareholders": 294525,
+          "perCapitaShares": 1.3,
+          "changePercent": -0.89
+        },
+        {
+          "quarter": "2023Q1",
+          "shareholders": 291524,
+          "perCapitaShares": 1.3,
+          "changePercent": -1.02
+        },
+        {
+          "quarter": "2023Q2",
+          "shareholders": 280440,
+          "perCapitaShares": 1.2,
+          "changePercent": -3.8
+        },
+        {
+          "quarter": "2023Q3",
+          "shareholders": 272620,
+          "perCapitaShares": 1.4,
+          "changePercent": -2.79
+        },
+        {
+          "quarter": "2023Q4",
+          "shareholders": 270330,
+          "perCapitaShares": 1.4,
+          "changePercent": -0.84
+        },
+        {
+          "quarter": "2024Q1",
+          "shareholders": 243441,
+          "perCapitaShares": 1.7,
+          "changePercent": -9.95
+        },
+        {
+          "quarter": "2024Q2",
+          "shareholders": 237276,
+          "perCapitaShares": 1.6,
+          "changePercent": -2.53
+        },
+        {
+          "quarter": "2024Q3",
+          "shareholders": 238657,
+          "perCapitaShares": 1.5,
+          "changePercent": 0.58
+        },
+        {
+          "quarter": "2024Q4",
+          "shareholders": 217955,
+          "perCapitaShares": 1.6,
+          "changePercent": -8.67
+        },
+        {
+          "quarter": "2025Q1",
+          "shareholders": 222006,
+          "perCapitaShares": 1.8,
+          "changePercent": 1.86
+        },
+        {
+          "quarter": "2025Q2",
+          "shareholders": 215658,
+          "perCapitaShares": 1.9,
+          "changePercent": -2.86
+        },
+        {
+          "quarter": "2025Q3",
+          "shareholders": 218091,
+          "perCapitaShares": 1.8,
+          "changePercent": 1.13
+        },
+        {
+          "quarter": "2025Q4",
+          "shareholders": 208834,
+          "perCapitaShares": 1.9,
+          "changePercent": -4.24
+        }
+      ],
+      "peCurrent": 18.0,
+      "pbCurrent": 3.8,
+      "pePercentile": 7.5,
+      "pbPercentile": 5.3,
+      "hasMacdBottomDivergence": true,
+      "macdDivergenceDate": "2026-04-07",
+      "macdDivergenceStrength": 0.53,
+      "chipConcentration": 82.6,
+      "chipLevel": "高度集中",
+      "trendAnalysis": {
+        "shortTerm": "震荡",
+        "mediumTerm": "上涨",
+        "longTerm": "震荡",
+        "supportLevels": [
+          33.61
+        ],
+        "resistanceLevels": [
+          68.76
+        ],
+        "upsidePotential": 52.2,
+        "downsideRisk": 11.0,
+        "winLossRatio": 4.75,
+        "confidenceLevel": 0.81,
+        "analysisSummary": "股价位于三年底部区域，87.3分底部评分，建议关注。"
+      }
+    },
+    {
+      "id": "601012",
+      "name": "隆基绿能",
+      "currentPrice": 20.11,
+      "priceChangePercent": 0.24,
+      "isNearBottom": true,
+      "bottomScore": 77.7,
+      "三年低价": 18.74,
+      "三年高价": 42.91,
+      "三年中价": 30.82,
+      "当前位置百分位": 25.6,
+      "shareholderTrend": [
+        {
+          "quarter": "2021Q1",
+          "shareholders": 187268,
+          "perCapitaShares": 1.1,
+          "changePercent": -2.64
+        },
+        {
+          "quarter": "2021Q2",
+          "shareholders": 182154,
+          "perCapitaShares": 1.2,
+          "changePercent": -2.73
+        },
+        {
+          "quarter": "2021Q3",
+          "shareholders": 183327,
+          "perCapitaShares": 1.0,
+          "changePercent": 0.64
+        },
+        {
+          "quarter": "2021Q4",
+          "shareholders": 185745,
+          "perCapitaShares": 1.0,
+          "changePercent": 1.32
+        },
+        {
+          "quarter": "2022Q1",
+          "shareholders": 182813,
+          "perCapitaShares": 1.2,
+          "changePercent": -1.58
+        },
+        {
+          "quarter": "2022Q2",
+          "shareholders": 188233,
+          "perCapitaShares": 1.0,
+          "changePercent": 2.97
+        },
+        {
+          "quarter": "2022Q3",
+          "shareholders": 188619,
+          "perCapitaShares": 1.0,
+          "changePercent": 0.21
+        },
+        {
+          "quarter": "2022Q4",
+          "shareholders": 187471,
+          "perCapitaShares": 1.0,
+          "changePercent": -0.61
+        },
+        {
+          "quarter": "2023Q1",
+          "shareholders": 178229,
+          "perCapitaShares": 1.2,
+          "changePercent": -4.93
+        },
+        {
+          "quarter": "2023Q2",
+          "shareholders": 172450,
+          "perCapitaShares": 1.3,
+          "changePercent": -3.24
+        },
+        {
+          "quarter": "2023Q3",
+          "shareholders": 176229,
+          "perCapitaShares": 1.1,
+          "changePercent": 2.19
+        },
+        {
+          "quarter": "2023Q4",
+          "shareholders": 173958,
+          "perCapitaShares": 1.2,
+          "changePercent": -1.29
+        },
+        {
+          "quarter": "2024Q1",
+          "shareholders": 174448,
+          "perCapitaShares": 1.1,
+          "changePercent": 0.28
+        },
+        {
+          "quarter": "2024Q2",
+          "shareholders": 162519,
+          "perCapitaShares": 1.2,
+          "changePercent": -6.84
+        },
+        {
+          "quarter": "2024Q3",
+          "shareholders": 164323,
+          "perCapitaShares": 1.2,
+          "changePercent": 1.11
+        },
+        {
+          "quarter": "2024Q4",
+          "shareholders": 158278,
+          "perCapitaShares": 1.2,
+          "changePercent": -3.68
+        },
+        {
+          "quarter": "2025Q1",
+          "shareholders": 158331,
+          "perCapitaShares": 1.2,
+          "changePercent": 0.03
+        },
+        {
+          "quarter": "2025Q2",
+          "shareholders": 153879,
+          "perCapitaShares": 1.3,
+          "changePercent": -2.81
+        },
+        {
+          "quarter": "2025Q3",
+          "shareholders": 148183,
+          "perCapitaShares": 1.3,
+          "changePercent": -3.7
+        },
+        {
+          "quarter": "2025Q4",
+          "shareholders": 148673,
+          "perCapitaShares": 1.2,
+          "changePercent": 0.33
+        }
+      ],
+      "peCurrent": 12.0,
+      "pbCurrent": 2.5,
+      "pePercentile": 14.4,
+      "pbPercentile": 21.9,
+      "hasMacdBottomDivergence": true,
+      "macdDivergenceDate": "2026-03-29",
+      "macdDivergenceStrength": 0.53,
+      "chipConcentration": 65.3,
+      "chipLevel": "中度集中",
+      "trendAnalysis": {
+        "shortTerm": "震荡",
+        "mediumTerm": "震荡",
+        "longTerm": "震荡",
+        "supportLevels": [
+          17.98
+        ],
+        "resistanceLevels": [
+          36.9
+        ],
+        "upsidePotential": 44.9,
+        "downsideRisk": 9.3,
+        "winLossRatio": 4.83,
+        "confidenceLevel": 0.61,
+        "analysisSummary": "股价位于三年底部区域，77.7分底部评分，建议关注。"
+      }
+    },
+    {
+      "id": "600900",
+      "name": "长江电力",
+      "currentPrice": 21.62,
+      "priceChangePercent": -4.17,
+      "isNearBottom": true,
+      "bottomScore": 86.7,
+      "三年低价": 19.29,
+      "三年高价": 41.71,
+      "三年中价": 30.5,
+      "当前位置百分位": 18.9,
+      "shareholderTrend": [
+        {
+          "quarter": "2021Q1",
+          "shareholders": 239394,
+          "perCapitaShares": 1.0,
+          "changePercent": -4.81
+        },
+        {
+          "quarter": "2021Q2",
+          "shareholders": 232164,
+          "perCapitaShares": 0.9,
+          "changePercent": -3.02
+        },
+        {
+          "quarter": "2021Q3",
+          "shareholders": 231066,
+          "perCapitaShares": 0.9,
+          "changePercent": -0.47
+        },
+        {
+          "quarter": "2021Q4",
+          "shareholders": 228585,
+          "perCapitaShares": 1.0,
+          "changePercent": -1.07
+        },
+        {
+          "quarter": "2022Q1",
+          "shareholders": 227632,
+          "perCapitaShares": 1.0,
+          "changePercent": -0.42
+        },
+        {
+          "quarter": "2022Q2",
+          "shareholders": 231874,
+          "perCapitaShares": 1.0,
+          "changePercent": 1.86
+        },
+        {
+          "quarter": "2022Q3",
+          "shareholders": 228133,
+          "perCapitaShares": 0.9,
+          "changePercent": -1.61
+        },
+        {
+          "quarter": "2022Q4",
+          "shareholders": 225282,
+          "perCapitaShares": 1.0,
+          "changePercent": -1.25
+        },
+        {
+          "quarter": "2023Q1",
+          "shareholders": 228057,
+          "perCapitaShares": 0.9,
+          "changePercent": 1.23
+        },
+        {
+          "quarter": "2023Q2",
+          "shareholders": 226657,
+          "perCapitaShares": 1.0,
+          "changePercent": -0.61
+        },
+        {
+          "quarter": "2023Q3",
+          "shareholders": 220551,
+          "perCapitaShares": 0.9,
+          "changePercent": -2.69
+        },
+        {
+          "quarter": "2023Q4",
+          "shareholders": 219099,
+          "perCapitaShares": 0.9,
+          "changePercent": -0.66
+        },
+        {
+          "quarter": "2024Q1",
+          "shareholders": 217684,
+          "perCapitaShares": 0.9,
+          "changePercent": -0.65
+        },
+        {
+          "quarter": "2024Q2",
+          "shareholders": 207843,
+          "perCapitaShares": 1.1,
+          "changePercent": -4.52
+        },
+        {
+          "quarter": "2024Q3",
+          "shareholders": 201825,
+          "perCapitaShares": 1.0,
+          "changePercent": -2.9
+        },
+        {
+          "quarter": "2024Q4",
+          "shareholders": 186297,
+          "perCapitaShares": 1.1,
+          "changePercent": -7.69
+        },
+        {
+          "quarter": "2025Q1",
+          "shareholders": 181115,
+          "perCapitaShares": 1.3,
+          "changePercent": -2.78
+        },
+        {
+          "quarter": "2025Q2",
+          "shareholders": 183055,
+          "perCapitaShares": 1.1,
+          "changePercent": 1.07
+        },
+        {
+          "quarter": "2025Q3",
+          "shareholders": 179092,
+          "perCapitaShares": 1.2,
+          "changePercent": -2.16
+        },
+        {
+          "quarter": "2025Q4",
+          "shareholders": 165771,
+          "perCapitaShares": 1.3,
+          "changePercent": -7.44
+        }
+      ],
+      "peCurrent": 18.0,
+      "pbCurrent": 2.2,
+      "pePercentile": 6.4,
+      "pbPercentile": 30.3,
+      "hasMacdBottomDivergence": false,
+      "macdDivergenceDate": null,
+      "macdDivergenceStrength": 0,
+      "chipConcentration": 81.5,
+      "chipLevel": "高度集中",
+      "trendAnalysis": {
+        "shortTerm": "震荡",
+        "mediumTerm": "下跌",
+        "longTerm": "震荡",
+        "supportLevels": [
+          19.04
+        ],
+        "resistanceLevels": [
+          31.36
+        ],
+        "upsidePotential": 64.7,
+        "downsideRisk": 13.7,
+        "winLossRatio": 4.72,
+        "confidenceLevel": 0.79,
+        "analysisSummary": "股价位于三年底部区域，86.7分底部评分，建议关注。"
+      }
+    },
+    {
+      "id": "601398",
+      "name": "工商银行",
+      "currentPrice": 6.07,
+      "priceChangePercent": 2.51,
+      "isNearBottom": true,
+      "bottomScore": 83.7,
+      "三年低价": 5.61,
+      "三年高价": 12.97,
+      "三年中价": 9.29,
+      "当前位置百分位": 16.4,
+      "shareholderTrend": [
+        {
+          "quarter": "2021Q1",
+          "shareholders": 331795,
+          "perCapitaShares": 0.2,
+          "changePercent": 2.57
+        },
+        {
+          "quarter": "2021Q2",
+          "shareholders": 315763,
+          "perCapitaShares": 0.2,
+          "changePercent": -4.83
+        },
+        {
+          "quarter": "2021Q3",
+          "shareholders": 310773,
+          "perCapitaShares": 0.2,
+          "changePercent": -1.58
+        },
+        {
+          "quarter": "2021Q4",
+          "shareholders": 297650,
+          "perCapitaShares": 0.2,
+          "changePercent": -4.22
+        },
+        {
+          "quarter": "2022Q1",
+          "shareholders": 296513,
+          "perCapitaShares": 0.2,
+          "changePercent": -0.38
+        },
+        {
+          "quarter": "2022Q2",
+          "shareholders": 303914,
+          "perCapitaShares": 0.2,
+          "changePercent": 2.5
+        },
+        {
+          "quarter": "2022Q3",
+          "shareholders": 294094,
+          "perCapitaShares": 0.2,
+          "changePercent": -3.23
+        },
+        {
+          "quarter": "2022Q4",
+          "shareholders": 283883,
+          "perCapitaShares": 0.2,
+          "changePercent": -3.47
+        },
+        {
+          "quarter": "2023Q1",
+          "shareholders": 277527,
+          "perCapitaShares": 0.2,
+          "changePercent": -2.24
+        },
+        {
+          "quarter": "2023Q2",
+          "shareholders": 264205,
+          "perCapitaShares": 0.2,
+          "changePercent": -4.8
+        },
+        {
+          "quarter": "2023Q3",
+          "shareholders": 256437,
+          "perCapitaShares": 0.2,
+          "changePercent": -2.94
+        },
+        {
+          "quarter": "2023Q4",
+          "shareholders": 255076,
+          "perCapitaShares": 0.2,
+          "changePercent": -0.53
+        },
+        {
+          "quarter": "2024Q1",
+          "shareholders": 231019,
+          "perCapitaShares": 0.3,
+          "changePercent": -9.43
+        },
+        {
+          "quarter": "2024Q2",
+          "shareholders": 233593,
+          "perCapitaShares": 0.2,
+          "changePercent": 1.11
+        },
+        {
+          "quarter": "2024Q3",
+          "shareholders": 222693,
+          "perCapitaShares": 0.3,
+          "changePercent": -4.67
+        },
+        {
+          "quarter": "2024Q4",
+          "shareholders": 202393,
+          "perCapitaShares": 0.3,
+          "changePercent": -9.12
+        },
+        {
+          "quarter": "2025Q1",
+          "shareholders": 200190,
+          "perCapitaShares": 0.3,
+          "changePercent": -1.09
+        },
+        {
+          "quarter": "2025Q2",
+          "shareholders": 186122,
+          "perCapitaShares": 0.3,
+          "changePercent": -7.03
+        },
+        {
+          "quarter": "2025Q3",
+          "shareholders": 180895,
+          "perCapitaShares": 0.3,
+          "changePercent": -2.81
+        },
+        {
+          "quarter": "2025Q4",
+          "shareholders": 162886,
+          "perCapitaShares": 0.4,
+          "changePercent": -9.95
+        }
+      ],
+      "peCurrent": 5.5,
+      "pbCurrent": 0.65,
+      "pePercentile": 29.5,
+      "pbPercentile": 32.2,
+      "hasMacdBottomDivergence": false,
+      "macdDivergenceDate": null,
+      "macdDivergenceStrength": 0,
+      "chipConcentration": 82.5,
+      "chipLevel": "中度集中",
+      "trendAnalysis": {
+        "shortTerm": "上涨",
+        "mediumTerm": "震荡",
+        "longTerm": "上涨",
+        "supportLevels": [
+          5.45
+        ],
+        "resistanceLevels": [
+          10.35
+        ],
+        "upsidePotential": 53.7,
+        "downsideRisk": 7.1,
+        "winLossRatio": 7.56,
+        "confidenceLevel": 0.66,
+        "analysisSummary": "股价位于三年底部区域，83.7分底部评分，建议关注。"
+      }
+    },
+    {
+      "id": "601288",
+      "name": "农业银行",
+      "currentPrice": 4.19,
+      "priceChangePercent": 1.21,
+      "isNearBottom": true,
+      "bottomScore": 71.3,
+      "三年低价": 3.92,
+      "三年高价": 9.17,
+      "三年中价": 6.54,
+      "当前位置百分位": 26.7,
+      "shareholderTrend": [
+        {
+          "quarter": "2021Q1",
+          "shareholders": 260961,
+          "perCapitaShares": 0.2,
+          "changePercent": -4.91
+        },
+        {
+          "quarter": "2021Q2",
+          "shareholders": 255816,
+          "perCapitaShares": 0.2,
+          "changePercent": -1.97
+        },
+        {
+          "quarter": "2021Q3",
+          "shareholders": 245053,
+          "perCapitaShares": 0.2,
+          "changePercent": -4.21
+        },
+        {
+          "quarter": "2021Q4",
+          "shareholders": 243732,
+          "perCapitaShares": 0.2,
+          "changePercent": -0.54
+        },
+        {
+          "quarter": "2022Q1",
+          "shareholders": 238345,
+          "perCapitaShares": 0.2,
+          "changePercent": -2.21
+        },
+        {
+          "quarter": "2022Q2",
+          "shareholders": 234922,
+          "perCapitaShares": 0.2,
+          "changePercent": -1.44
+        },
+        {
+          "quarter": "2022Q3",
+          "shareholders": 233073,
+          "perCapitaShares": 0.2,
+          "changePercent": -0.79
+        },
+        {
+          "quarter": "2022Q4",
+          "shareholders": 226686,
+          "perCapitaShares": 0.2,
+          "changePercent": -2.74
+        },
+        {
+          "quarter": "2023Q1",
+          "shareholders": 224165,
+          "perCapitaShares": 0.2,
+          "changePercent": -1.11
+        },
+        {
+          "quarter": "2023Q2",
+          "shareholders": 217922,
+          "perCapitaShares": 0.2,
+          "changePercent": -2.78
+        },
+        {
+          "quarter": "2023Q3",
+          "shareholders": 218732,
+          "perCapitaShares": 0.2,
+          "changePercent": 0.37
+        },
+        {
+          "quarter": "2023Q4",
+          "shareholders": 217428,
+          "perCapitaShares": 0.2,
+          "changePercent": -0.6
+        },
+        {
+          "quarter": "2024Q1",
+          "shareholders": 211903,
+          "perCapitaShares": 0.2,
+          "changePercent": -2.54
+        },
+        {
+          "quarter": "2024Q2",
+          "shareholders": 197519,
+          "perCapitaShares": 0.2,
+          "changePercent": -6.79
+        },
+        {
+          "quarter": "2024Q3",
+          "shareholders": 200461,
+          "perCapitaShares": 0.2,
+          "changePercent": 1.49
+        },
+        {
+          "quarter": "2024Q4",
+          "shareholders": 181525,
+          "perCapitaShares": 0.2,
+          "changePercent": -9.45
+        },
+        {
+          "quarter": "2025Q1",
+          "shareholders": 172555,
+          "perCapitaShares": 0.2,
+          "changePercent": -4.94
+        },
+        {
+          "quarter": "2025Q2",
+          "shareholders": 175065,
+          "perCapitaShares": 0.2,
+          "changePercent": 1.45
+        },
+        {
+          "quarter": "2025Q3",
+          "shareholders": 164677,
+          "perCapitaShares": 0.3,
+          "changePercent": -5.93
+        },
+        {
+          "quarter": "2025Q4",
+          "shareholders": 159708,
+          "perCapitaShares": 0.3,
+          "changePercent": -3.02
+        }
+      ],
+      "peCurrent": 5.8,
+      "pbCurrent": 0.65,
+      "pePercentile": 9.3,
+      "pbPercentile": 11.7,
+      "hasMacdBottomDivergence": true,
+      "macdDivergenceDate": "2026-04-01",
+      "macdDivergenceStrength": 0.73,
+      "chipConcentration": 74.4,
+      "chipLevel": "高度集中",
+      "trendAnalysis": {
+        "shortTerm": "震荡",
+        "mediumTerm": "下跌",
+        "longTerm": "上涨",
+        "supportLevels": [
+          3.82
+        ],
+        "resistanceLevels": [
+          8.13
+        ],
+        "upsidePotential": 31.1,
+        "downsideRisk": 13.5,
+        "winLossRatio": 2.3,
+        "confidenceLevel": 0.67,
+        "analysisSummary": "股价位于三年底部区域，71.3分底部评分，建议关注。"
       }
     }
   ],
   "marketSummary": {
-    "totalStocks": 15,
-    "avgBottomScore": 77.1,
-    "avgPePercentile": 18.6,
-    "avgChipConcentration": 76.2,
-    "stocksWithDivergence": 7
+    "totalStocks": 20,
+    "avgBottomScore": 73.7,
+    "avgPePercentile": 19.7,
+    "avgChipConcentration": 76.3,
+    "stocksWithDivergence": 6
   }
 }
