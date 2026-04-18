@@ -51,15 +51,11 @@ jobs:
           
           print("\n[3] 获取跌停板数据...")
           zt_pool = safe_get(ak.stock_zt_pool_em, date=(datetime.now() - timedelta(days=1)).strftime("%Y%m%d"))
-          dt_pool = safe_get(ak.stock_dt_pool_em, date=(datetime.now() - timedelta(days=1)).strftime("%Y%m%d"))
           bad_codes = set()
           if zt_pool is not None and len(zt_pool) > 0:
               if '代码' in zt_pool.columns:
                   bad_codes.update(zt_pool['代码'].astype(str).tolist())
-          if dt_pool is not None and len(dt_pool) > 0:
-              if '代码' in dt_pool.columns:
-                  bad_codes.update(dt_pool['代码'].astype(str).tolist())
-          print(f"  跌停/跌停股: {len(bad_codes)} 只")
+          print(f"  涨停股（用于排除）: {len(bad_codes)} 只")
           
           print("\n[4] 获取退市风险股票...")
           risk_df = safe_get(ak.stock_zh_a_risk_em)
